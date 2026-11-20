@@ -1,0 +1,155 @@
+{
+ "updated": "2026-11-20",
+ "leads": [
+  {
+   "id": "2026-11-20-bothra-classes",
+   "date": "2026-11-20",
+   "name": "Bothra Classes",
+   "niche": "Coaching institute",
+   "area": "Satellite (SG Highway)",
+   "score": 8,
+   "budget": "₹15k–35k",
+   "site": "https://bothraclasses.com",
+   "phone": "079 26764933",
+   "chips": [
+    "Established JEE brand",
+    "Runs scholarship test (BEST)",
+    "Has website"
+   ],
+   "findings": [
+    "Site loads fast and is mobile-ready, but has no WhatsApp contact link (checked in page code)",
+    "No visible enrolment or test-registration flow detected on the home page",
+    "Footer copyright shows 2024, so the site looks not recently maintained"
+   ],
+   "offer": "Online registration + WhatsApp enquiry funnel for the scholarship test and demo classes",
+   "price": "₹15k–30k",
+   "upsell": "Result and scholarship dashboard, then a ₹4–6k/month upkeep plan",
+   "pitch": "Show a 1-screen demo of 'Register for BEST in 60 seconds' with an auto WhatsApp confirmation.",
+   "msg": "Namaste! I'm a web developer based in Ahmedabad. I looked at bothraclasses.com and noticed there's no WhatsApp or online registration option for the BEST scholarship test, so parents have to call. I've sketched a small registration + WhatsApp flow that could capture those enquiries automatically. Can I send you a 1-page preview? No obligation.",
+   "verify": false,
+   "lat": 23.0267,
+   "lon": 72.5086,
+   "approx_location": true
+  },
+  {
+   "id": "2026-11-20-muskaan-dental",
+   "date": "2026-11-20",
+   "name": "Muskaan Laser Dental Clinic & Implant Centre",
+   "niche": "Dental / implants",
+   "area": "Satellite, Jodhpur Gam Rd",
+   "score": 7,
+   "budget": "₹15k–30k",
+   "site": null,
+   "phone": null,
+   "chips": [
+    "Implants = high-ticket",
+    "Multi-specialist clinic",
+    "No own website found"
+   ],
+   "findings": [
+    "Only third-party directory (WhatClinic) pages found in search; no official website surfaced",
+    "Directory page lists implants, braces, veneers and whitening: services people research online",
+    "Verify on Google Maps first whether a site or Google Business Profile exists"
+   ],
+   "offer": "Clinic website with treatment pages, before/after gallery and online appointment request",
+   "price": "₹15k–25k",
+   "upsell": "WhatsApp appointment reminders and Google Business optimisation, ₹3–5k/month",
+   "pitch": "Prepare a sample homepage for the clinic with its real treatments.",
+   "msg": "Namaste Doctor! I'm a local web developer. I couldn't find an official website for Muskaan Laser Dental Clinic, only directory listings, so patients searching for implants in Satellite may never reach you directly. I can build a simple site with online appointment requests. Happy to show a sample homepage first. May I send it?",
+   "verify": true,
+   "lat": 23.0204,
+   "lon": 72.5214,
+   "approx_location": true
+  },
+  {
+   "id": "2026-11-20-deekay-fluorine",
+   "date": "2026-11-20",
+   "name": "Deekay Fluorine Industries",
+   "niche": "Manufacturer / exporter",
+   "area": "Naroda GIDC, Phase 2",
+   "score": 7,
+   "budget": "₹15k–40k",
+   "site": null,
+   "phone": null,
+   "chips": [
+    "Holds import-export code",
+    "B2B exporter",
+    "No own website found"
+   ],
+   "findings": [
+    "IndiaMART verification page shows a Naroda GIDC Phase 2 address and import-export code",
+    "Web search found no official website for the company",
+    "Overseas buyers usually check a company website before trusting a supplier"
+   ],
+   "offer": "B2B company website: product catalogue, certifications, export enquiry form and downloadable PDF brochure",
+   "price": "₹18k–35k",
+   "upsell": "Enquiry-tracking sheet and quotation automation",
+   "pitch": "Lead with credibility: 'foreign buyers can't verify you without a site'.",
+   "msg": "Hello Sir, I'm a web developer in Ahmedabad. I came across Deekay Fluorine Industries on IndiaMART and couldn't find your own website. Export buyers often look for one before sending enquiries. I can build a clean catalogue site with an enquiry form. Can I share a sample made for a Naroda manufacturer?",
+   "verify": true,
+   "lat": 23.0845,
+   "lon": 72.6645,
+   "approx_location": true
+  },
+  {
+   "id": "2026-11-20-sonika-engineers",
+   "date": "2026-11-20",
+   "name": "Sonika Engineers",
+   "niche": "Industrial fans & blowers",
+   "area": "Dwarkesh Estate GIDC",
+   "score": 6,
+   "budget": "₹10k–25k",
+   "site": "https://www.sonikaengineers.com",
+   "phone": null,
+   "chips": [
+    "Active manufacturer",
+    "Has website",
+    "Has WhatsApp + form"
+   ],
+   "findings": [
+    "Site is HTTPS and mobile-ready, with a WhatsApp link and enquiry form",
+    "Footer copyright reads 2021, so content and design look dated",
+    "Title says 'Manufacturers in India': generic, nothing about Ahmedabad or key products"
+   ],
+   "offer": "Redesign and SEO refresh: product pages by fan type, case studies, faster page, Gujarat/Ahmedabad keywords",
+   "price": "₹12k–22k",
+   "upsell": "Monthly SEO and enquiry reporting",
+   "pitch": "Quick before/after of their homepage plus 3 SEO fixes.",
+   "msg": "Hello Sir, I'm a web developer in Ahmedabad. Your site sonikaengineers.com works well on mobile, but the content looks dated and doesn't target buyers searching for specific fan types. I've listed 3 quick fixes that could bring more enquiries. Can I send them over? No charge.",
+   "verify": false,
+   "lat": 23.022,
+   "lon": 72.659,
+   "approx_location": true
+  },
+  {
+   "id": "2026-11-20-vision-interio",
+   "date": "2026-11-20",
+   "name": "Vision Interio",
+   "niche": "Interior design studio",
+   "area": "Odhav",
+   "score": 6,
+   "budget": "₹10k–20k",
+   "site": null,
+   "phone": null,
+   "chips": [
+    "In business since 2001",
+    "Portfolio-driven business",
+    "No own website found"
+   ],
+   "findings": [
+    "Only an IndiaMART profile found; no standalone website",
+    "Interior design is chosen visually, so a portfolio site matters",
+    "Verify on Google Maps for an Instagram or Google profile before pitching"
+   ],
+   "offer": "Portfolio website with project gallery, WhatsApp enquiry and Google Maps location",
+   "price": "₹10k–18k",
+   "upsell": "Instagram-to-site lead capture and Google Business setup",
+   "pitch": "Build a quick gallery mock using photos they already have public.",
+   "msg": "Namaste! I'm a web developer in Ahmedabad. Vision Interio has 20+ years of work but I could only find an IndiaMART page, so clients can't see your portfolio properly. I can build a simple gallery website with WhatsApp enquiry. Want me to send a sample layout?",
+   "verify": true,
+   "lat": 23.027,
+   "lon": 72.66,
+   "approx_location": true
+  }
+ ]
+}
