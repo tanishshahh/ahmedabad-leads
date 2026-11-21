@@ -17,6 +17,7 @@ let state = store.get("lead-state", {}); // id -> {status, note}
 let leads = [];
 let filter = "all";
 let query = "";
+let niche = store.get("niche", "");
 const open = new Set();
 
 // Home = Shivranjani. Distance is a road estimate (straight line x 1.3) from approximate coordinates.
@@ -55,7 +56,11 @@ async function load(force) {
 }
 
 function render() {
-  const near = leads.filter(inRadius);
+  const nsel = $("#niche"), kinds = [...new Set(leads.map((l) => l.niche))].sort();
+  if (nsel.options.length !== kinds.length + 1) nsel.innerHTML = '<option value="">All niches</option>' + kinds.map((k) => `<option>${esc(k)}</option>`).join("");
+  if (niche && !kinds.includes(niche)) niche = "";
+  nsel.value = niche;
+  const near = leads.filter((l) => inRadius(l) && (!niche || l.niche === niche));
   const counts = { all: near.length };
   STATUSES.forEach((s) => (counts[s] = near.filter((l) => st(l.id) === s).length));
   $("#stats").innerHTML = [["Leads", counts.all], ["Contacted", counts.contacted + counts.replied], ["Won", counts.won]]
@@ -121,6 +126,7 @@ document.addEventListener("change", (e) => {
   if (id && e.target.matches("[data-note]")) { save(id, { note: e.target.value }); toast("Note saved"); }
 });
 $("#q").addEventListener("input", (e) => { query = e.target.value; render(); });
+$("#niche").addEventListener("change", (e) => { niche = e.target.value; store.set("niche", niche); render(); });
 $("#radius").value = String(radius);
 $("#radius").addEventListener("change", (e) => { radius = Number(e.target.value); store.set("radius-km", radius); render(); });
 

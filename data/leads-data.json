@@ -1,6 +1,151 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "leads": [
+  {
+   "id": "2026-11-21-sanidhayamaternityandnur",
+   "date": "2026-11-21",
+   "auto": true,
+   "name": "Sanidhaya Maternity and Nursing Home",
+   "niche": "Dental / skin / physio clinic",
+   "area": "Ahmedabad",
+   "lat": 23.01432,
+   "lon": 72.53015,
+   "approx_location": false,
+   "score": 8,
+   "budget": "INR 15,000 - 30,000",
+   "site": "",
+   "phone": "7926744033",
+   "chips": [
+    "No website"
+   ],
+   "findings": [
+    "No official website found in OpenStreetMap data (verify on Google Maps)."
+   ],
+   "offer": "Appointment website with online booking and WhatsApp enquiry",
+   "price": "INR 15,000 - 30,000",
+   "upsell": "Monthly Google profile + reminders retainer INR 4,000",
+   "pitch": "Lead with: No official website found in OpenStreetMap data (verify on Google Maps). Then show a quick mock/fix and the appointment website with online booking and whatsapp enquiry.",
+   "verify": true,
+   "msg": "Hi Sanidhaya Maternity and Nursing Home team, I could not find an official website for Sanidhaya Maternity and Nursing Home when searching online. I can help with an appointment website that includes online booking and WhatsApp enquiry. Would you like a free 1-page audit with quick fixes, no obligation? Tanish"
+  },
+  {
+   "id": "2026-11-21-shreyasfoundationschool",
+   "date": "2026-11-21",
+   "auto": true,
+   "name": "Shreyas Foundation School",
+   "niche": "Coaching / school / training academy",
+   "area": "Ahmedabad",
+   "lat": 23.01454,
+   "lon": 72.5401,
+   "approx_location": false,
+   "score": 8,
+   "budget": "INR 12,000 - 25,000",
+   "site": "",
+   "phone": "",
+   "chips": [
+    "No website"
+   ],
+   "findings": [
+    "No official website found in OpenStreetMap data (verify on Google Maps)."
+   ],
+   "offer": "Admissions website with enquiry form, course pages and WhatsApp lead capture",
+   "price": "INR 12,000 - 25,000",
+   "upsell": "Fee reminder / enquiry CRM automation INR 10,000+",
+   "pitch": "Lead with: No official website found in OpenStreetMap data (verify on Google Maps). Then show a quick mock/fix and the admissions website with enquiry form, course pages and whatsapp lead capture.",
+   "verify": true,
+   "msg": "Hi Shreyas Foundation School team, I could not find an official website for Shreyas Foundation School when searching online. I can help with an admissions website with an enquiry form, course pages, and WhatsApp lead capture. Would you like a free 1-page audit with quick fixes, no obligation? Tanish"
+  },
+  {
+   "id": "2026-11-21-drmaulikpatwa",
+   "date": "2026-11-21",
+   "auto": true,
+   "name": "Dr. Maulik Patwa",
+   "niche": "Dental / skin / physio clinic",
+   "area": "Ahmedabad",
+   "lat": 23.01729,
+   "lon": 72.55578,
+   "approx_location": false,
+   "score": 9,
+   "budget": "INR 15,000 - 30,000",
+   "site": "https://drmaulikpatwa.in/",
+   "phone": "",
+   "chips": [
+    "No HTTPS",
+    "Not mobile friendly",
+    "No WhatsApp",
+    "No click-to-call",
+    "No booking/enquiry"
+   ],
+   "findings": [
+    "Site is not served over HTTPS (browser shows 'Not secure').",
+    "Not optimised for mobile screens (no viewport tag).",
+    "No WhatsApp contact link."
+   ],
+   "offer": "Appointment website with online booking and WhatsApp enquiry",
+   "price": "INR 15,000 - 30,000",
+   "upsell": "Monthly Google profile + reminders retainer INR 4,000",
+   "pitch": "Lead with: Site is not served over HTTPS (browser shows 'Not secure'). Then show a quick mock/fix and the appointment website with online booking and whatsapp enquiry.",
+   "verify": false,
+   "msg": "Hi Dr. Maulik Patwa team, I noticed that your site is not served over HTTPS (browser shows 'Not secure'). I can help with an appointment website that includes online booking and WhatsApp enquiry. Would you like a free 1-page audit with quick fixes, no obligation? Tanish"
+  },
+  {
+   "id": "2026-11-21-ahmedabadtextileindustry",
+   "date": "2026-11-21",
+   "auto": true,
+   "name": "Ahmedabad Textile Industry's Research Association",
+   "niche": "Coaching / school / training academy",
+   "area": "Ahmedabad",
+   "lat": 23.03192,
+   "lon": 72.5418,
+   "approx_location": false,
+   "score": 8,
+   "budget": "INR 12,000 - 25,000",
+   "site": "https://atira.in/",
+   "phone": "",
+   "chips": [
+    "No WhatsApp",
+    "No click-to-call"
+   ],
+   "findings": [
+    "No WhatsApp contact link.",
+    "No tap-to-call number."
+   ],
+   "offer": "Admissions website with enquiry form, course pages and WhatsApp lead capture",
+   "price": "INR 12,000 - 25,000",
+   "upsell": "Fee reminder / enquiry CRM automation INR 10,000+",
+   "pitch": "Lead with: No WhatsApp contact link. Then show a quick mock/fix and the admissions website with enquiry form, course pages and whatsapp lead capture.",
+   "verify": false,
+   "msg": "Hi Ahmedabad Textile Industry's Research Association team, I noticed that no WhatsApp contact link is available. Can we discuss setting up an admissions website with an enquiry form, course pages, and WhatsApp lead capture? I’d also like to offer a free 1-page audit with quick fixes, no obligation. Tanish"
+  },
+  {
+   "id": "2026-11-21-uppercrustcafe",
+   "date": "2026-11-21",
+   "auto": true,
+   "name": "Upper Crust Cafe",
+   "niche": "Restaurant / cafe chain",
+   "area": "Ahmedabad",
+   "lat": 23.04121,
+   "lon": 72.54857,
+   "approx_location": false,
+   "score": 8,
+   "budget": "INR 12,000 - 30,000",
+   "site": "https://www.cafeuppercrust.com/",
+   "phone": "91-79-26401554",
+   "chips": [
+    "No WhatsApp",
+    "No click-to-call"
+   ],
+   "findings": [
+    "No WhatsApp contact link.",
+    "No tap-to-call number."
+   ],
+   "offer": "Menu + online ordering / table booking site with WhatsApp ordering",
+   "price": "INR 12,000 - 30,000",
+   "upsell": "Review + loyalty automation INR 10,000+",
+   "pitch": "Lead with: No WhatsApp contact link. Then show a quick mock/fix and the menu + online ordering / table booking site with whatsapp ordering.",
+   "verify": false,
+   "msg": "Hi Upper Crust Cafe team, I noticed you don't have a WhatsApp contact link on your website. I can help set up your menu, online ordering, and table booking site with integrated WhatsApp ordering. Would you like a free 1-page audit with quick fixes? Tanish"
+  },
   {
    "id": "2026-11-20-bothra-classes",
    "date": "2026-11-20",
