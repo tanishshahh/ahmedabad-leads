@@ -18,6 +18,8 @@ let leads = [];
 let filter = "all";
 let query = "";
 let niche = store.get("niche", "");
+let tab = store.get("tab", "local");
+const reg = (l) => l.region || "local";
 const open = new Set();
 
 // Home = Shivranjani. Distance is a road estimate (straight line x 1.3) from approximate coordinates.
@@ -55,12 +57,38 @@ async function load(force) {
   render();
 }
 
+const emailOf = (l) => ((l.contacts || {}).emails || [])[0] || "";
+const mailto = (l) => `mailto:${emailOf(l)}?subject=${encodeURIComponent(l.email_subject || "")}&body=${encodeURIComponent(l.email_body || "")}`;
+function contactHtml(l) {
+  const ct = l.contacts;
+  if (!ct) return "";
+  const parts = [];
+  (ct.emails || []).forEach((m) => parts.push(`<div>Email: <a href="mailto:${esc(m)}">${esc(m)}</a></div>`));
+  if (ct.whatsapp) parts.push(`<div>WhatsApp: <a href="https://wa.me/${esc(String(ct.whatsapp).replace(/\D/g, ""))}" target="_blank" rel="noopener">${esc(ct.whatsapp)}</a></div>`);
+  (ct.phones || []).forEach((p) => parts.push(`<div>Phone: <a href="tel:${esc(p)}">${esc(p)}</a></div>`));
+  const body = parts.length ? parts.join("") : `<div class="meta">No public email or WhatsApp found. Try the phone number or their Maps listing.</div>`;
+  const mail = l.email_body ? `<h3>Cold email draft</h3><div class="msg"><b>Subject:</b> ${esc(l.email_subject)}
+
+${esc(l.email_body)}</div>` : "";
+  return `<h3>Contact (published by the business)</h3><div class="contact">${body}</div>${mail}`;
+}
+
+const SHORT = {
+  "Dental / skin / physio clinic": "Clinics", "Coaching / school / training academy": "Schools & coaching",
+  "CA / law / consulting / insurance firm": "CA, law, consulting", "Real estate / interior / architect": "Real estate, interiors",
+  "Showroom / jeweller / furniture / boutique": "Showrooms, retail", "Gym / salon / spa / events": "Gyms, salons", "Restaurant / cafe chain": "Restaurants, cafes",
+};
+
 function render() {
   const nsel = $("#niche"), kinds = [...new Set(leads.map((l) => l.niche))].sort();
-  if (nsel.options.length !== kinds.length + 1) nsel.innerHTML = '<option value="">All niches</option>' + kinds.map((k) => `<option>${esc(k)}</option>`).join("");
+  if (nsel.options.length !== kinds.length + 1) nsel.innerHTML = '<option value="">All niches</option>' + kinds.map((k) => `<option value="${esc(k)}">${esc(SHORT[k] || k)}</option>`).join("");
   if (niche && !kinds.includes(niche)) niche = "";
   nsel.value = niche;
-  const near = leads.filter((l) => inRadius(l) && (!niche || l.niche === niche));
+  const tabLeads = leads.filter((l) => reg(l) === tab);
+  $("#tabs").innerHTML = [["local", "Nearby"], ["india", "India"], ["intl", "Abroad"]]
+    .map(([k, n]) => `<button class="tab ${tab === k ? "on" : ""}" data-tab="${k}">${n} <span>${leads.filter((l) => reg(l) === k && (k !== "local" || inRadius(l))).length}</span></button>`).join("");
+  $("#radrow").style.display = tab === "local" ? "" : "none";
+  const near = tabLeads.filter((l) => inRadius(l) && (!niche || l.niche === niche));
   const counts = { all: near.length };
   STATUSES.forEach((s) => (counts[s] = near.filter((l) => st(l.id) === s).length));
   $("#stats").innerHTML = [["Leads", counts.all], ["Contacted", counts.contacted + counts.replied], ["Won", counts.won]]
@@ -70,9 +98,9 @@ function render() {
 
   const q = query.trim().toLowerCase();
   const shown = near.filter((l) => (filter === "all" || st(l.id) === filter) && (!q || [l.name, l.area, l.niche, l.offer].join(" ").toLowerCase().includes(q)));
-  const hidden = leads.length - near.length;
+  const hidden = tab === "local" ? tabLeads.filter((l) => !inRadius(l)).length : 0;
   const hint = hidden > 0 ? `<div class="meta" style="margin:8px 2px">${hidden} lead${hidden > 1 ? "s" : ""} hidden outside ${radius} km. Raise the distance to see them.</div>` : "";
-  if (!shown.length) { $("#list").innerHTML = hint + `<div class="empty">No leads within ${radius || "any"} km yet.</div>`; return; }
+  if (!shown.length) { $("#list").innerHTML = hint + `<div class="empty">${tab === "local" ? "No leads within " + (radius || "any") + " km yet." : "Nothing here yet. This section fills at the next daily run."}</div>`; return; }
 
   let html = hint, day = "";
   for (const l of shown) {
@@ -84,12 +112,15 @@ function render() {
         <div class="chips">${(l.chips || []).map((c) => `<span class="chip">${esc(c)}</span>`).join("")}</div>
         <h3>What I found</h3><ul>${(l.findings || []).map((f) => `<li>${esc(f)}</li>`).join("")}</ul>
         <h3>What to offer</h3><div class="offer"><div>${esc(l.offer)}</div><div class="price">${esc(l.price)} <span class="meta">(budget est. ${esc(l.budget)})</span></div><div class="meta">Upsell: ${esc(l.upsell)}</div></div>
+        ${(l.ideas && l.ideas.length) ? `<h3>Suggested offer plan</h3>${l.ideas_note ? `<div class="aisug">${esc(l.ideas_note)}</div>` : ""}<ol class="plan">${l.ideas.map((i) => `<li><b>${esc(i.title)}</b><div>${esc(i.detail)}</div><div class="meta">${esc(i.price)}</div></li>`).join("")}</ol>` : ""}
         <h3>Pitch idea</h3><div>${esc(l.pitch)}</div>
-        <h3>Message</h3><div class="msg">${esc(l.msg)}</div>
-        ${l.verify ? `<div class="note">Verify on Google Maps first: no official website was found in search.</div>` : ""}
+        <h3>WhatsApp / text message</h3><div class="msg">${esc(l.msg)}</div>
+        ${l.verify ? `<div class="note">Automated check, so confirm before pitching: open ${l.site ? "their site" : "Google Maps"} and make sure these findings are true.</div>` : ""}
+        ${contactHtml(l)}
         <div class="row">
           <button class="b p" data-copy>Copy message</button>
           <button class="b" data-wa>WhatsApp</button>
+          ${emailOf(l) ? `<a class="b" href="${esc(mailto(l))}">Email</a><button class="b" data-copyemail>Copy email</button>` : ""}
           ${l.site ? `<a class="b" href="${esc(l.site)}" target="_blank" rel="noopener">Open site</a>` : ""}
           ${l.phone ? `<a class="b" href="tel:${esc(String(l.phone).replace(/\s/g, ""))}">Call</a>` : ""}
           <a class="b" target="_blank" rel="noopener" href="https://www.google.com/maps/search/${encodeURIComponent(l.name + " Ahmedabad")}">Maps</a>
@@ -103,6 +134,8 @@ function render() {
 }
 
 document.addEventListener("click", async (e) => {
+  const tb = e.target.closest("[data-tab]");
+  if (tb) { tab = tb.dataset.tab; store.set("tab", tab); return render(); }
   const f = e.target.closest("[data-f]");
   if (f) { filter = f.dataset.f; return render(); }
   if (e.target.closest("#refresh")) return load(true);
@@ -112,9 +145,15 @@ document.addEventListener("click", async (e) => {
   if (e.target.closest("[data-copy]")) {
     try { await navigator.clipboard.writeText(l.msg); toast("Message copied"); } catch { toast("Long-press the text to copy"); }
   } else if (e.target.closest("[data-wa]")) {
-    const digits = String(l.phone || "").replace(/\D/g, "");
-    const mobile = digits.length >= 10 && /^[6-9]/.test(digits.slice(-10)) ? "91" + digits.slice(-10) : "";
-    window.open(`https://wa.me/${mobile}?text=${encodeURIComponent(l.msg)}`, "_blank");
+    const ct = l.contacts || {};
+    let num = String(ct.whatsapp || "").replace(/\D/g, "");
+    if (!num) {
+      const digits = String(l.phone || (ct.phones || [])[0] || "").replace(/\D/g, "");
+      num = digits.length >= 10 && /^[6-9]/.test(digits.slice(-10)) ? "91" + digits.slice(-10) : "";
+    }
+    window.open(`https://wa.me/${num}?text=${encodeURIComponent(l.msg)}`, "_blank");
+  } else if (e.target.closest("[data-copyemail]")) {
+    try { await navigator.clipboard.writeText(["To: " + emailOf(l), "Subject: " + (l.email_subject || ""), "", l.email_body || ""].join(String.fromCharCode(10))); toast("Email copied"); } catch { toast("Could not copy"); }
   } else if (e.target.closest("[data-toggle]")) {
     open.has(id) ? open.delete(id) : open.add(id);
     card.classList.toggle("open");

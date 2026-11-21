@@ -2,9 +2,10 @@
  "updated": "2026-11-21",
  "leads": [
   {
-   "id": "2026-11-21-sanidhayamaternityandnur",
+   "id": "2026-11-21-local-sanidhayamaternityandnur",
    "date": "2026-11-21",
    "auto": true,
+   "region": "local",
    "name": "Sanidhaya Maternity and Nursing Home",
    "niche": "Dental / skin / physio clinic",
    "area": "Ahmedabad",
@@ -19,86 +20,101 @@
     "No website"
    ],
    "findings": [
-    "No official website found in OpenStreetMap data (verify on Google Maps)."
+    "A web search found no website of their own, only directory or social listings (confirm on Google Maps before pitching)."
    ],
    "offer": "Appointment website with online booking and WhatsApp enquiry",
    "price": "INR 15,000 - 30,000",
    "upsell": "Monthly Google profile + reminders retainer INR 4,000",
-   "pitch": "Lead with: No official website found in OpenStreetMap data (verify on Google Maps). Then show a quick mock/fix and the appointment website with online booking and whatsapp enquiry.",
+   "pitch": "Lead with: A web search found no website of their own, only directory or social listings (confirm on Google Maps before pitching). Then show a quick mock/fix and the appointment website with online booking and whatsapp enquiry.",
    "verify": true,
-   "msg": "Hi Sanidhaya Maternity and Nursing Home team, I could not find an official website for Sanidhaya Maternity and Nursing Home when searching online. I can help with an appointment website that includes online booking and WhatsApp enquiry. Would you like a free 1-page audit with quick fixes, no obligation? Tanish"
+   "site_source": "none",
+   "contacts": {
+    "emails": [],
+    "whatsapp": "",
+    "phones": [
+     "7926744033"
+    ]
+   },
+   "email_subject": "A website for Sanidhaya Maternity and Nursing Home",
+   "email_body": "Hello Sanidhaya Maternity and Nursing Home team,\n\nMy name is Tanish. I'm a freelance web developer based in Shivranjani, Ahmedabad.\n\nWhile looking at dental businesses in Ahmedabad, i could not find an official website for Sanidhaya Maternity and Nursing Home when searching online.\n\nI can help with a appointment website with online booking and WhatsApp enquiry. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Starter business website (4-6 pages)",
+     "detail": "Home, services, about/team, gallery and contact pages, built mobile-first, with Google Maps, tap-to-call and a WhatsApp button. Add a Google Business Profile link so people searching their name find one official page. Usually live in 7-10 days.",
+     "price": "INR 12,000 - 25,000"
+    },
+    {
+     "title": "Growth add-on to pitch later",
+     "detail": "Monthly Google profile + reminders retainer INR 4,000",
+     "price": "see add-on"
+    }
+   ],
+   "ideas_note": "Start with a basic business website to establish an online presence, as no website is currently available and this is crucial for attracting modern customers. A solid foundation will also make it easier to add more services later.",
+   "msg": "Hi Sanidhaya Maternity and Nursing Home team, I could not find an official website for Sanidhaya Maternity and Nursing Home when searching online. I can help with an appointment website with online booking and WhatsApp enquiry. Would you like a free 1-page audit with quick fixes, no obligation? Tanish"
   },
   {
-   "id": "2026-11-21-shreyasfoundationschool",
+   "id": "2026-11-21-local-dentacare",
    "date": "2026-11-21",
    "auto": true,
-   "name": "Shreyas Foundation School",
-   "niche": "Coaching / school / training academy",
+   "region": "local",
+   "name": "DENTA CARE",
+   "niche": "Dental / skin / physio clinic",
    "area": "Ahmedabad",
-   "lat": 23.01454,
-   "lon": 72.5401,
+   "lat": 23.07976,
+   "lon": 72.53385,
    "approx_location": false,
    "score": 8,
-   "budget": "INR 12,000 - 25,000",
+   "budget": "INR 15,000 - 30,000",
    "site": "",
-   "phone": "",
+   "phone": "9428000016",
    "chips": [
     "No website"
    ],
    "findings": [
-    "No official website found in OpenStreetMap data (verify on Google Maps)."
-   ],
-   "offer": "Admissions website with enquiry form, course pages and WhatsApp lead capture",
-   "price": "INR 12,000 - 25,000",
-   "upsell": "Fee reminder / enquiry CRM automation INR 10,000+",
-   "pitch": "Lead with: No official website found in OpenStreetMap data (verify on Google Maps). Then show a quick mock/fix and the admissions website with enquiry form, course pages and whatsapp lead capture.",
-   "verify": true,
-   "msg": "Hi Shreyas Foundation School team, I could not find an official website for Shreyas Foundation School when searching online. I can help with an admissions website with an enquiry form, course pages, and WhatsApp lead capture. Would you like a free 1-page audit with quick fixes, no obligation? Tanish"
-  },
-  {
-   "id": "2026-11-21-drmaulikpatwa",
-   "date": "2026-11-21",
-   "auto": true,
-   "name": "Dr. Maulik Patwa",
-   "niche": "Dental / skin / physio clinic",
-   "area": "Ahmedabad",
-   "lat": 23.01729,
-   "lon": 72.55578,
-   "approx_location": false,
-   "score": 9,
-   "budget": "INR 15,000 - 30,000",
-   "site": "https://drmaulikpatwa.in/",
-   "phone": "",
-   "chips": [
-    "No HTTPS",
-    "Not mobile friendly",
-    "No WhatsApp",
-    "No click-to-call",
-    "No booking/enquiry"
-   ],
-   "findings": [
-    "Site is not served over HTTPS (browser shows 'Not secure').",
-    "Not optimised for mobile screens (no viewport tag).",
-    "No WhatsApp contact link."
+    "A web search found no website of their own, only directory or social listings (confirm on Google Maps before pitching)."
    ],
    "offer": "Appointment website with online booking and WhatsApp enquiry",
    "price": "INR 15,000 - 30,000",
    "upsell": "Monthly Google profile + reminders retainer INR 4,000",
-   "pitch": "Lead with: Site is not served over HTTPS (browser shows 'Not secure'). Then show a quick mock/fix and the appointment website with online booking and whatsapp enquiry.",
-   "verify": false,
-   "msg": "Hi Dr. Maulik Patwa team, I noticed that your site is not served over HTTPS (browser shows 'Not secure'). I can help with an appointment website that includes online booking and WhatsApp enquiry. Would you like a free 1-page audit with quick fixes, no obligation? Tanish"
+   "pitch": "Lead with: A web search found no website of their own, only directory or social listings (confirm on Google Maps before pitching). Then show a quick mock/fix and the appointment website with online booking and whatsapp enquiry.",
+   "verify": true,
+   "site_source": "none",
+   "contacts": {
+    "emails": [],
+    "whatsapp": "",
+    "phones": [
+     "9428000016"
+    ]
+   },
+   "email_subject": "A website for DENTA CARE",
+   "email_body": "Hello DENTA CARE team,\n\nMy name is Tanish. I'm a freelance web developer based in Shivranjani, Ahmedabad.\n\nWhile looking at dental businesses in Ahmedabad, i could not find an official website for DENTA CARE when searching online.\n\nI can help with a appointment website with online booking and WhatsApp enquiry. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Starter business website (4-6 pages)",
+     "detail": "Home, services, about/team, gallery and contact pages, built mobile-first, with Google Maps, tap-to-call and a WhatsApp button. Add a Google Business Profile link so people searching their name find one official page. Usually live in 7-10 days.",
+     "price": "INR 12,000 - 25,000"
+    },
+    {
+     "title": "Growth add-on to pitch later",
+     "detail": "Monthly Google profile + reminders retainer INR 4,000",
+     "price": "see add-on"
+    }
+   ],
+   "ideas_note": "Start with a basic business website as the primary service since it is essential for establishing an online presence. This is crucial for DENTA CARE as they currently lack a website, making it difficult for potential clients to find them online.",
+   "msg": "Hi DENTA CARE team, I could not find an official website for DENTA CARE when searching online. I can help with an appointment website that includes online booking and a WhatsApp enquiry system. I also offer a free 1-page audit with quick fixes, no obligation. Tanish"
   },
   {
-   "id": "2026-11-21-ahmedabadtextileindustry",
+   "id": "2026-11-21-local-ahmedabadtextileindustry",
    "date": "2026-11-21",
    "auto": true,
+   "region": "local",
    "name": "Ahmedabad Textile Industry's Research Association",
    "niche": "Coaching / school / training academy",
    "area": "Ahmedabad",
    "lat": 23.03192,
    "lon": 72.5418,
    "approx_location": false,
-   "score": 8,
+   "score": 9,
    "budget": "INR 12,000 - 25,000",
    "site": "https://atira.in/",
    "phone": "",
@@ -107,44 +123,475 @@
     "No click-to-call"
    ],
    "findings": [
-    "No WhatsApp contact link.",
-    "No tap-to-call number."
+    "No WhatsApp link found on the homepage.",
+    "No tap-to-call phone link found on the homepage."
    ],
    "offer": "Admissions website with enquiry form, course pages and WhatsApp lead capture",
    "price": "INR 12,000 - 25,000",
    "upsell": "Fee reminder / enquiry CRM automation INR 10,000+",
-   "pitch": "Lead with: No WhatsApp contact link. Then show a quick mock/fix and the admissions website with enquiry form, course pages and whatsapp lead capture.",
+   "pitch": "Lead with: No WhatsApp link found on the homepage. Then show a quick mock/fix and the admissions website with enquiry form, course pages and whatsapp lead capture.",
    "verify": false,
-   "msg": "Hi Ahmedabad Textile Industry's Research Association team, I noticed that no WhatsApp contact link is available. Can we discuss setting up an admissions website with an enquiry form, course pages, and WhatsApp lead capture? I’d also like to offer a free 1-page audit with quick fixes, no obligation. Tanish"
+   "site_source": "osm",
+   "contacts": {
+    "emails": [
+     "atiralabs@atira.in",
+     "marketing@atira.in",
+     "director@atira.in"
+    ],
+    "whatsapp": "",
+    "phones": []
+   },
+   "email_subject": "A quick idea for Ahmedabad Textile Industry's Research Association's website",
+   "email_body": "Hello Ahmedabad Textile Industry's Research Association team,\n\nMy name is Tanish. I'm a freelance web developer based in Shivranjani, Ahmedabad.\n\nWhile looking at coaching businesses in Ahmedabad, i could not find a WhatsApp contact button on your website's homepage.\n\nI can help with a admissions website with enquiry form, course pages and WhatsApp lead capture. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "WhatsApp enquiry button",
+     "detail": "Floating WhatsApp button plus click-to-chat links with a pre-filled message, so visitors can reach the business in one tap. 1-2 days of work.",
+     "price": "INR 3,000 - 8,000"
+    },
+    {
+     "title": "Tap-to-call and sticky contact bar",
+     "detail": "Make the phone number tappable everywhere and add a bar that stays visible while scrolling on mobile.",
+     "price": "INR 2,000 - 5,000"
+    },
+    {
+     "title": "Growth add-on to pitch later",
+     "detail": "Fee reminder / enquiry CRM automation INR 10,000+",
+     "price": "see add-on"
+    }
+   ],
+   "ideas_note": "Start with implementing the WhatsApp enquiry button as it can provide immediate communication, enhancing customer engagement. Since there is no existing WhatsApp link or tap-to-call option, this service will significantly improve the association's accessibility.",
+   "msg": "Hi Ahmedabad Textile Industry's Research Association team, I could not find a WhatsApp contact button on your website's homepage. I can help with an admissions website that includes an enquiry form, course pages, and WhatsApp lead capture. Would you be interested in a free 1-page audit with quick fixes? Tanish"
   },
   {
-   "id": "2026-11-21-uppercrustcafe",
+   "id": "2026-11-21-local-shethchimanlalnagindasvi",
    "date": "2026-11-21",
    "auto": true,
+   "region": "local",
+   "name": "Sheth Chimanlal Nagindas Vidyavihar",
+   "niche": "Coaching / school / training academy",
+   "area": "Ahmedabad",
+   "lat": 23.019,
+   "lon": 72.54938,
+   "approx_location": false,
+   "score": 9,
+   "budget": "INR 12,000 - 25,000",
+   "site": "https://cnvidyavihar.edu.in/",
+   "phone": "07926463696",
+   "chips": [
+    "No WhatsApp",
+    "No click-to-call"
+   ],
+   "findings": [
+    "No WhatsApp link found on the homepage.",
+    "No tap-to-call phone link found on the homepage."
+   ],
+   "offer": "Admissions website with enquiry form, course pages and WhatsApp lead capture",
+   "price": "INR 12,000 - 25,000",
+   "upsell": "Fee reminder / enquiry CRM automation INR 10,000+",
+   "pitch": "Lead with: No WhatsApp link found on the homepage. Then show a quick mock/fix and the admissions website with enquiry form, course pages and whatsapp lead capture.",
+   "verify": false,
+   "site_source": "osm",
+   "contacts": {
+    "emails": [
+     "info@cnvidyavihar.edu.in",
+     "admin@cnvidyavihar.edu.in",
+     "reception@cnvidyavihar.edu.in"
+    ],
+    "whatsapp": "",
+    "phones": [
+     "07926463696"
+    ]
+   },
+   "email_subject": "A quick idea for Sheth Chimanlal Nagindas Vidyavihar's website",
+   "email_body": "Hello Sheth Chimanlal Nagindas Vidyavihar team,\n\nMy name is Tanish. I'm a freelance web developer based in Shivranjani, Ahmedabad.\n\nWhile looking at coaching businesses in Ahmedabad, i could not find a WhatsApp contact button on your website's homepage.\n\nI can help with a admissions website with enquiry form, course pages and WhatsApp lead capture. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "WhatsApp enquiry button",
+     "detail": "Floating WhatsApp button plus click-to-chat links with a pre-filled message, so visitors can reach the business in one tap. 1-2 days of work.",
+     "price": "INR 3,000 - 8,000"
+    },
+    {
+     "title": "Tap-to-call and sticky contact bar",
+     "detail": "Make the phone number tappable everywhere and add a bar that stays visible while scrolling on mobile.",
+     "price": "INR 2,000 - 5,000"
+    },
+    {
+     "title": "Growth add-on to pitch later",
+     "detail": "Fee reminder / enquiry CRM automation INR 10,000+",
+     "price": "see add-on"
+    }
+   ],
+   "ideas_note": "Start with the WhatsApp enquiry button as it provides a direct and convenient way for potential clients to contact the business. This is crucial for a coaching/school/training academy to enhance immediate engagement and support.",
+   "msg": "Hi Sheth Chimanlal Nagindas Vidyavihar team, I could not find a WhatsApp contact button on your website's homepage. I can help with your admissions website, enquiry form, course pages, and WhatsApp lead capture. Would you be interested in a free 1-page audit with quick fixes? No obligation. Tanish"
+  },
+  {
+   "id": "2026-11-21-local-uppercrustcafe",
+   "date": "2026-11-21",
+   "auto": true,
+   "region": "local",
    "name": "Upper Crust Cafe",
    "niche": "Restaurant / cafe chain",
    "area": "Ahmedabad",
    "lat": 23.04121,
    "lon": 72.54857,
    "approx_location": false,
-   "score": 8,
+   "score": 9,
    "budget": "INR 12,000 - 30,000",
    "site": "https://www.cafeuppercrust.com/",
    "phone": "91-79-26401554",
+   "chips": [
+    "No click-to-call"
+   ],
+   "findings": [
+    "No tap-to-call phone link found on the homepage."
+   ],
+   "offer": "Menu + online ordering / table booking site with WhatsApp ordering",
+   "price": "INR 12,000 - 30,000",
+   "upsell": "Review + loyalty automation INR 10,000+",
+   "pitch": "Lead with: No tap-to-call phone link found on the homepage. Then show a quick mock/fix and the menu + online ordering / table booking site with whatsapp ordering.",
+   "verify": false,
+   "site_source": "osm",
+   "contacts": {
+    "emails": [
+     "contact@cafeuppercrust.com"
+    ],
+    "whatsapp": "",
+    "phones": [
+     "91-79-26401554"
+    ]
+   },
+   "email_subject": "A quick idea for Upper Crust Cafe's website",
+   "email_body": "Hello Upper Crust Cafe team,\n\nMy name is Tanish. I'm a freelance web developer based in Shivranjani, Ahmedabad.\n\nWhile looking at restaurant businesses in Ahmedabad, i noticed your website's homepage has no tap-to-call number.\n\nI can help with a menu + online ordering / table booking site with WhatsApp ordering. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Tap-to-call and sticky contact bar",
+     "detail": "Make the phone number tappable everywhere and add a bar that stays visible while scrolling on mobile.",
+     "price": "INR 2,000 - 5,000"
+    },
+    {
+     "title": "Growth add-on to pitch later",
+     "detail": "Review + loyalty automation INR 10,000+",
+     "price": "see add-on"
+    }
+   ],
+   "ideas_note": "Start with tap-to-call functionality as it addresses a critical user experience issue on the homepage. This service enhances customer engagement and convenience, which is crucial for a restaurant/cafe chain.",
+   "msg": "Hi Upper Crust Cafe team, I noticed your website's homepage has no tap-to-call number. I can help with adding a menu, online ordering, and a table booking site with WhatsApp ordering. Would you be interested in a free 1-page audit with quick fixes? Tanish"
+  },
+  {
+   "id": "2026-11-21-india-manavmangalhighschool",
+   "date": "2026-11-21",
+   "auto": true,
+   "region": "india",
+   "name": "Manav Mangal High School",
+   "niche": "Coaching / school / training academy",
+   "area": "Chandigarh",
+   "lat": null,
+   "lon": null,
+   "approx_location": false,
+   "score": 6,
+   "budget": "INR 12,000 - 25,000",
+   "site": "https://manavmangal.school/",
+   "phone": "0172-5039039",
+   "chips": [
+    "No WhatsApp",
+    "No click-to-call",
+    "No booking/enquiry"
+   ],
+   "findings": [
+    "No WhatsApp link found on the homepage.",
+    "No tap-to-call phone link found on the homepage.",
+    "No enquiry form or booking option found on the homepage."
+   ],
+   "offer": "Admissions website with enquiry form, course pages and WhatsApp lead capture",
+   "price": "INR 12,000 - 25,000",
+   "upsell": "Fee reminder / enquiry CRM automation INR 10,000+",
+   "pitch": "Lead with: No WhatsApp link found on the homepage. Then show a quick mock/fix and the admissions website with enquiry form, course pages and whatsapp lead capture.",
+   "verify": false,
+   "site_source": "osm",
+   "contacts": {
+    "emails": [
+     "mmhs21@manavmangalschool.com"
+    ],
+    "whatsapp": "",
+    "phones": [
+     "0172-5039039"
+    ]
+   },
+   "email_subject": "A quick idea for Manav Mangal High School's website",
+   "email_body": "Hello Manav Mangal High School team,\n\nMy name is Tanish. I'm a freelance web developer based in Ahmedabad, India, and I work with businesses remotely.\n\nWhile looking at coaching businesses in Chandigarh, i could not find a WhatsApp contact button on your website's homepage.\n\nI can help with a admissions website with enquiry form, course pages and WhatsApp lead capture. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "WhatsApp enquiry button",
+     "detail": "Floating WhatsApp button plus click-to-chat links with a pre-filled message, so visitors can reach the business in one tap. 1-2 days of work.",
+     "price": "INR 3,000 - 8,000"
+    },
+    {
+     "title": "Tap-to-call and sticky contact bar",
+     "detail": "Make the phone number tappable everywhere and add a bar that stays visible while scrolling on mobile.",
+     "price": "INR 2,000 - 5,000"
+    },
+    {
+     "title": "Enquiry / booking flow",
+     "detail": "Admissions website with enquiry form, course pages and WhatsApp lead capture. Submissions land on WhatsApp/email and a Google Sheet so no enquiry is lost, with an auto-reply confirming receipt.",
+     "price": "INR 10,000 - 30,000"
+    },
+    {
+     "title": "Growth add-on to pitch later",
+     "detail": "Fee reminder / enquiry CRM automation INR 10,000+",
+     "price": "see add-on"
+    }
+   ],
+   "ideas_note": "WhatsApp enquiry button should lead with the planned services as it addresses the lack of any direct contact method on the homepage, crucial for immediate engagement with potential clients. Tap-to-call and sticky contact bar can follow as they also enhance direct communication but are secondary to establishing initial contact.",
+   "msg": "Hi Manav Mangal High School team, I could not find a WhatsApp contact button on your website's homepage. I can help with your admissions website, enquiry form, course pages, and WhatsApp lead capture. Would you be interested in a free 1-page audit with quick fixes? No obligation. Tanish"
+  },
+  {
+   "id": "2026-11-21-india-gyandeepmodelseniorsecon",
+   "date": "2026-11-21",
+   "auto": true,
+   "region": "india",
+   "name": "Gyandeep Model Senior Secondary School",
+   "niche": "Coaching / school / training academy",
+   "area": "Chandigarh",
+   "lat": null,
+   "lon": null,
+   "approx_location": false,
+   "score": 6,
+   "budget": "INR 12,000 - 25,000",
+   "site": "https://gyandeepmodelseniorsecondaryschool.com/",
+   "phone": "0172-2771945",
+   "chips": [
+    "No WhatsApp",
+    "No click-to-call",
+    "No booking/enquiry",
+    "Outdated",
+    "Weak SEO"
+   ],
+   "findings": [
+    "No WhatsApp link found on the homepage.",
+    "No tap-to-call phone link found on the homepage.",
+    "No enquiry form or booking option found on the homepage."
+   ],
+   "offer": "Admissions website with enquiry form, course pages and WhatsApp lead capture",
+   "price": "INR 12,000 - 25,000",
+   "upsell": "Fee reminder / enquiry CRM automation INR 10,000+",
+   "pitch": "Lead with: No WhatsApp link found on the homepage. Then show a quick mock/fix and the admissions website with enquiry form, course pages and whatsapp lead capture.",
+   "verify": false,
+   "site_source": "osm",
+   "contacts": {
+    "emails": [
+     "info@gyandeepmodelseniorsecondaryschool.com",
+     "principal@gyandeepmodelseniorsecondaryschool.com"
+    ],
+    "whatsapp": "",
+    "phones": [
+     "0172-2771945"
+    ]
+   },
+   "email_subject": "A quick idea for Gyandeep Model Senior Secondary School's website",
+   "email_body": "Hello Gyandeep Model Senior Secondary School team,\n\nMy name is Tanish. I'm a freelance web developer based in Ahmedabad, India, and I work with businesses remotely.\n\nWhile looking at coaching businesses in Chandigarh, i could not find a WhatsApp contact button on your website's homepage.\n\nI can help with a admissions website with enquiry form, course pages and WhatsApp lead capture. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "WhatsApp enquiry button",
+     "detail": "Floating WhatsApp button plus click-to-chat links with a pre-filled message, so visitors can reach the business in one tap. 1-2 days of work.",
+     "price": "INR 3,000 - 8,000"
+    },
+    {
+     "title": "Tap-to-call and sticky contact bar",
+     "detail": "Make the phone number tappable everywhere and add a bar that stays visible while scrolling on mobile.",
+     "price": "INR 2,000 - 5,000"
+    },
+    {
+     "title": "Enquiry / booking flow",
+     "detail": "Admissions website with enquiry form, course pages and WhatsApp lead capture. Submissions land on WhatsApp/email and a Google Sheet so no enquiry is lost, with an auto-reply confirming receipt.",
+     "price": "INR 10,000 - 30,000"
+    },
+    {
+     "title": "Local SEO basics",
+     "detail": "Page titles and descriptions, Google Business Profile clean-up, and 'near me' service pages so they show up for local searches.",
+     "price": "INR 5,000 - 12,000 setup, or INR 3,000 - 6,000/month"
+    },
+    {
+     "title": "Growth add-on to pitch later",
+     "detail": "Fee reminder / enquiry CRM automation INR 10,000+",
+     "price": "see add-on"
+    }
+   ],
+   "ideas_note": "Start with implementing a WhatsApp enquiry button as it allows for immediate engagement and can significantly boost interaction with potential clients. This is crucial for a coaching school aiming to increase visibility and responsiveness online.",
+   "msg": "Hi Gyandeep Model Senior Secondary School team, I could not find a WhatsApp contact button on your website's homepage. I can help with admissions website design, enquiry forms, course pages, and WhatsApp lead capture. Would you be interested in a free 1-page audit with quick fixes? No obligation. Tanish"
+  },
+  {
+   "id": "2026-11-21-intl-mrsimple",
+   "date": "2026-11-21",
+   "auto": true,
+   "region": "intl",
+   "name": "Mr Simple",
+   "niche": "Showroom / jeweller / furniture / boutique",
+   "area": "Melbourne, Australia",
+   "lat": null,
+   "lon": null,
+   "approx_location": false,
+   "score": 8,
+   "budget": "USD 450 - 1,200",
+   "site": "https://mrsimple.com.au/",
+   "phone": "+61266809886",
    "chips": [
     "No WhatsApp",
     "No click-to-call"
    ],
    "findings": [
-    "No WhatsApp contact link.",
-    "No tap-to-call number."
+    "No WhatsApp link found on the homepage.",
+    "No tap-to-call phone link found on the homepage."
    ],
-   "offer": "Menu + online ordering / table booking site with WhatsApp ordering",
-   "price": "INR 12,000 - 30,000",
-   "upsell": "Review + loyalty automation INR 10,000+",
-   "pitch": "Lead with: No WhatsApp contact link. Then show a quick mock/fix and the menu + online ordering / table booking site with whatsapp ordering.",
+   "offer": "Catalog website with WhatsApp ordering and enquiry button",
+   "price": "USD 450 - 1,200",
+   "upsell": "Inventory / catalog dashboard USD 750+",
+   "pitch": "Lead with: No WhatsApp link found on the homepage. Then show a quick mock/fix and the catalog website with whatsapp ordering and enquiry button.",
    "verify": false,
-   "msg": "Hi Upper Crust Cafe team, I noticed you don't have a WhatsApp contact link on your website. I can help set up your menu, online ordering, and table booking site with integrated WhatsApp ordering. Would you like a free 1-page audit with quick fixes? Tanish"
+   "site_source": "osm",
+   "contacts": {
+    "emails": [
+     "info@mrsimple.com.au",
+     "adam@sidelife.com.au"
+    ],
+    "whatsapp": "",
+    "phones": [
+     "+61266809886"
+    ]
+   },
+   "email_subject": "A quick idea for Mr Simple's website",
+   "email_body": "Hello Mr Simple team,\n\nMy name is Tanish. I'm a freelance web developer based in Ahmedabad, India, and I work with businesses remotely.\n\nWhile looking at showroom businesses in Melbourne, Australia, i could not find a WhatsApp contact button on your website's homepage.\n\nI can help with a catalog website with WhatsApp ordering and enquiry button. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "WhatsApp enquiry button",
+     "detail": "Floating WhatsApp button plus click-to-chat links with a pre-filled message, so visitors can reach the business in one tap. 1-2 days of work.",
+     "price": "USD 100 - 250"
+    },
+    {
+     "title": "Tap-to-call and sticky contact bar",
+     "detail": "Make the phone number tappable everywhere and add a bar that stays visible while scrolling on mobile.",
+     "price": "USD 50 - 150"
+    },
+    {
+     "title": "Growth add-on to pitch later",
+     "detail": "Inventory / catalog dashboard INR 25,000+",
+     "price": "see add-on"
+    }
+   ],
+   "ideas_note": "Start with the WhatsApp enquiry button as it provides a direct communication channel, enhancing customer engagement. Tap-to-call and sticky contact bar can be introduced later as they improve accessibility and convenience for potential customers.",
+   "msg": "Hi Mr Simple team, I could not find a WhatsApp contact button on your website's homepage. I can help with a catalog website that includes WhatsApp ordering and enquiry buttons. Would you be interested in a free 1-page audit with quick fixes? Tanish"
+  },
+  {
+   "id": "2026-11-21-intl-leonardst",
+   "date": "2026-11-21",
+   "auto": true,
+   "region": "intl",
+   "name": "Leonard St.",
+   "niche": "Showroom / jeweller / furniture / boutique",
+   "area": "Melbourne, Australia",
+   "lat": null,
+   "lon": null,
+   "approx_location": false,
+   "score": 8,
+   "budget": "USD 450 - 1,200",
+   "site": "https://leonardstreet.com.au/",
+   "phone": "",
+   "chips": [
+    "No WhatsApp",
+    "No click-to-call"
+   ],
+   "findings": [
+    "No WhatsApp link found on the homepage.",
+    "No tap-to-call phone link found on the homepage."
+   ],
+   "offer": "Catalog website with WhatsApp ordering and enquiry button",
+   "price": "USD 450 - 1,200",
+   "upsell": "Inventory / catalog dashboard USD 750+",
+   "pitch": "Lead with: No WhatsApp link found on the homepage. Then show a quick mock/fix and the catalog website with whatsapp ordering and enquiry button.",
+   "verify": false,
+   "site_source": "osm",
+   "contacts": {
+    "emails": [
+     "amanda@leonardstreet.com.au"
+    ],
+    "whatsapp": "",
+    "phones": []
+   },
+   "email_subject": "A quick idea for Leonard St.'s website",
+   "email_body": "Hello Leonard St. team,\n\nMy name is Tanish. I'm a freelance web developer based in Ahmedabad, India, and I work with businesses remotely.\n\nWhile looking at showroom businesses in Melbourne, Australia, i could not find a WhatsApp contact button on your website's homepage.\n\nI can help with a catalog website with WhatsApp ordering and enquiry button. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "WhatsApp enquiry button",
+     "detail": "Floating WhatsApp button plus click-to-chat links with a pre-filled message, so visitors can reach the business in one tap. 1-2 days of work.",
+     "price": "USD 100 - 250"
+    },
+    {
+     "title": "Tap-to-call and sticky contact bar",
+     "detail": "Make the phone number tappable everywhere and add a bar that stays visible while scrolling on mobile.",
+     "price": "USD 50 - 150"
+    },
+    {
+     "title": "Growth add-on to pitch later",
+     "detail": "Inventory / catalog dashboard INR 25,000+",
+     "price": "see add-on"
+    }
+   ],
+   "ideas_note": "Start with the WhatsApp enquiry button as it provides a direct communication channel, enhancing customer engagement. Tap-to-call and a sticky contact bar are equally important but should follow as they improve accessibility and convenience for potential customers.",
+   "msg": "Hi Leonard St. team, I could not find a WhatsApp contact button on your website's homepage. I can help you with a catalog website that includes WhatsApp ordering and enquiry buttons. Would you be interested in a free 1-page audit with quick fixes, no obligation? Tanish"
+  },
+  {
+   "id": "2026-11-21-intl-brunswickfamilydentalcar",
+   "date": "2026-11-21",
+   "auto": true,
+   "region": "intl",
+   "name": "Brunswick Family Dental Care",
+   "niche": "Dental / skin / physio clinic",
+   "area": "Melbourne, Australia",
+   "lat": null,
+   "lon": null,
+   "approx_location": false,
+   "score": 7,
+   "budget": "USD 450 - 900",
+   "site": "https://www.brunswickfamilydentalcare.com.au/",
+   "phone": "+61 3 9388 8915",
+   "chips": [
+    "No WhatsApp"
+   ],
+   "findings": [
+    "No WhatsApp link found on the homepage."
+   ],
+   "offer": "Appointment website with online booking and WhatsApp enquiry",
+   "price": "USD 450 - 900",
+   "upsell": "Monthly Google profile + reminders retainer USD 100",
+   "pitch": "Lead with: No WhatsApp link found on the homepage. Then show a quick mock/fix and the appointment website with online booking and whatsapp enquiry.",
+   "verify": false,
+   "site_source": "osm",
+   "contacts": {
+    "emails": [
+     "contact@brunswickfamilydentalcare.com.au"
+    ],
+    "whatsapp": "",
+    "phones": [
+     "+61 3 9388 8915",
+     "0393888915"
+    ]
+   },
+   "email_subject": "A quick idea for Brunswick Family Dental Care's website",
+   "email_body": "Hello Brunswick Family Dental Care team,\n\nMy name is Tanish. I'm a freelance web developer based in Ahmedabad, India, and I work with businesses remotely.\n\nWhile looking at dental businesses in Melbourne, Australia, i could not find a WhatsApp contact button on your website's homepage.\n\nI can help with a appointment website with online booking and WhatsApp enquiry. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "WhatsApp enquiry button",
+     "detail": "Floating WhatsApp button plus click-to-chat links with a pre-filled message, so visitors can reach the business in one tap. 1-2 days of work.",
+     "price": "USD 100 - 250"
+    },
+    {
+     "title": "Growth add-on to pitch later",
+     "detail": "Monthly Google profile + reminders retainer INR 4,000",
+     "price": "see add-on"
+    }
+   ],
+   "ideas_note": "Start with the WhatsApp enquiry button as it provides a direct and instant communication channel for potential clients, which is crucial for a clinic like Brunswick Family Dental Care where quick responses can enhance customer satisfaction and lead generation.",
+   "msg": "Hi Brunswick Family Dental Care team, I could not find a WhatsApp contact button on your website's homepage. I can help you set up an appointment website with online booking and WhatsApp enquiry. Offer a free 1-page audit with quick fixes, no obligation. Tanish"
   },
   {
    "id": "2026-11-20-bothra-classes",

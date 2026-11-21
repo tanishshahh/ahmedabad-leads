@@ -12,18 +12,23 @@
 </head>
 <body>
 <header>
-  <div class="bar">
-    <div><h1>Ahmedabad Leads</h1><div id="sub" class="sub">Loading…</div></div>
-    <button id="refresh" aria-label="Refresh">&#8635;</button>
+  <div class="top">
+    <div class="bar">
+      <div><h1>Ahmedabad Leads</h1><div id="sub" class="sub">Loading…</div></div>
+      <button id="refresh" aria-label="Refresh">&#8635;</button>
+    </div>
+    <div class="tabs" id="tabs"></div>
   </div>
   <div class="stats" id="stats"></div>
-  <div class="rad"><label for="radius">Within</label>
+  <div class="rad" id="radrow"><label for="radius">Within</label>
     <select id="radius">
       <option value="3">3 km</option><option value="5">5 km</option><option value="8">8 km</option>
       <option value="10">10 km</option><option value="15">15 km</option><option value="25">25 km</option><option value="0">Anywhere</option>
-    </select><span class="meta">of Shivranjani</span>
-    <select id="niche" aria-label="Niche"><option value="">All niches</option></select></div>
-  <input id="q" type="search" placeholder="Search name, area, niche…" autocomplete="off">
+    </select><span class="meta">of Shivranjani</span></div>
+  <div class="srch">
+    <input id="q" type="search" placeholder="Search…" autocomplete="off">
+    <select id="niche" aria-label="Niche"><option value="">All niches</option></select>
+  </div>
   <div class="filters" id="filters"></div>
 </header>
 <main id="list"></main>
