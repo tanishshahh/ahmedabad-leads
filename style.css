@@ -48,3 +48,41 @@ ol.plan{margin:0;padding-left:20px}ol.plan li{margin:8px 0}ol.plan li b{font-wei
 .srch{display:flex;gap:8px}.srch #q{flex:1;min-width:0}
 #niche{flex:0 0 42%;max-width:42%;min-height:42px;text-overflow:ellipsis;white-space:nowrap;overflow:hidden}
 .stats{margin:8px 0}.stat{padding:4px 8px}.stat b{font-size:18px}
+/* ---- mobile robustness (v2.1) ---- */
+html{-webkit-text-size-adjust:100%;text-size-adjust:100%;overflow-x:hidden}
+body{overflow-x:hidden;min-width:0;width:100%}
+header,main,.card,.head,.body,.msg,.contact,.aisug,.offer,ol.plan li{min-width:0;max-width:100%}
+.head>div:first-child{min-width:0;flex:1}
+.name,.meta,.msg,.contact,.aisug,.offer,ol.plan,.note,li{overflow-wrap:anywhere;word-break:break-word}
+.name{line-height:1.25}
+a{overflow-wrap:anywhere}
+.row>*{flex:1 1 140px;justify-content:center;text-align:center}
+.tab{min-width:0;padding:8px 4px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.stats{gap:6px}.stat{min-width:0}
+.rad{flex-wrap:wrap}
+.f{white-space:nowrap}
+img,svg,video{max-width:100%;height:auto}
+textarea,select,input{max-width:100%}
+@media (max-width:480px){
+  header{padding:0 12px 4px}.top{margin:0 -12px;padding-left:12px;padding-right:12px}
+  main{padding:10px 12px calc(env(safe-area-inset-bottom) + 40px)}
+  h1{font-size:18px}.sub{font-size:12px}
+  .tab{font-size:12.5px}.tab span{min-width:0;margin-left:3px;padding:0 5px;font-size:11px}
+  .stat b{font-size:16px}.stat span{font-size:10.5px}
+  .head{padding:12px}.body{padding:0 12px 12px}.name{font-size:16px}
+  .srch{flex-wrap:wrap}.srch #q{flex:1 1 100%}#niche{flex:1 1 100%;max-width:100%}
+  .rad .meta{flex:1 1 100%}
+  .row>*{flex:1 1 100%}
+  .msg{font-size:13.5px}
+}
+@media (max-width:480px){
+  header{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+  .top{flex:0 0 calc(100% + 24px)}
+  .stats{display:none}
+  .srch{display:contents}
+  #q{order:1;flex:1 1 100%}
+  .rad{order:2;flex:1 1 40%;margin:0;flex-wrap:nowrap}.rad .meta{display:none}.rad label{display:none}.rad select{width:100%}
+  #niche{order:2;flex:1 1 52%;max-width:none}
+  .filters{order:3;flex:1 1 100%;padding:2px 0 4px}
+  .rad,#niche{min-height:42px}
+}
