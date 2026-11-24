@@ -2,6 +2,219 @@
  "updated": "2026-11-24",
  "leads": [
   {
+   "id": "2026-11-24-local-vastrakutir",
+   "date": "2026-11-24",
+   "auto": true,
+   "region": "local",
+   "name": "Vastrakutir",
+   "niche": "Showroom / jeweller / furniture / boutique",
+   "area": "Ahmedabad",
+   "lat": 23.03218,
+   "lon": 72.51155,
+   "approx_location": false,
+   "score": 8,
+   "budget": "INR 15,000 - 40,000",
+   "site": "",
+   "phone": "",
+   "chips": [
+    "No website"
+   ],
+   "findings": [
+    "A web search found no website of their own, only directory or social listings (confirm on Google Maps before pitching)."
+   ],
+   "offer": "Catalog website with WhatsApp ordering and enquiry button",
+   "price": "INR 15,000 - 40,000",
+   "upsell": "Inventory / catalog dashboard INR 25,000+",
+   "pitch": "Lead with: A web search found no website of their own, only directory or social listings (confirm on Google Maps before pitching). Then show a quick mock/fix and the catalog website with whatsapp ordering and enquiry button.",
+   "verify": true,
+   "site_source": "none",
+   "contacts": {
+    "emails": [],
+    "whatsapp": "",
+    "phones": []
+   },
+   "email_subject": "A website for Vastrakutir",
+   "email_body": "Hello Vastrakutir team,\n\nMy name is Tanish. I'm a freelance web developer based in Shivranjani, Ahmedabad.\n\nWhile looking at showroom businesses in Ahmedabad, i could not find an official website for Vastrakutir when searching online.\n\nI can help with a catalog website with WhatsApp ordering and enquiry button. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Starter business website (4-6 pages)",
+     "detail": "Home, services, about/team, gallery and contact pages, built mobile-first, with Google Maps, tap-to-call and a WhatsApp button. Add a Google Business Profile link so people searching their name find one official page. Usually live in 7-10 days.",
+     "price": "INR 12,000 - 25,000"
+    },
+    {
+     "title": "Custom CRM / management system",
+     "detail": "Inventory / catalog dashboard INR 25,000+",
+     "price": "INR 25,000 - 80,000"
+    }
+   ],
+   "ideas_note": "For a showroom / jeweller / furniture / boutique, new enquiries are what pay the bills, so start with 'Starter business website (4-6 pages)' because it fixes the clearest gap found. Offer the rest as an optional second phase once they see results.",
+   "msg": "Hi Vastrakutir team, I'm Tanish, a freelance web developer in Shivranjani, Ahmedabad. I could not find an official website for Vastrakutir when searching online. I can help with a catalog website with whatsapp ordering and enquiry button. I'd be glad to send a free 1-page audit with quick fixes, no obligation. Shall I send it over?\n\nTanish"
+  },
+  {
+   "id": "2026-11-24-local-tdwfurnitureprivatelimit",
+   "date": "2026-11-24",
+   "auto": true,
+   "region": "local",
+   "name": "TDW Furniture Private Limited",
+   "niche": "Showroom / jeweller / furniture / boutique",
+   "area": "Ahmedabad",
+   "lat": 23.02709,
+   "lon": 72.52177,
+   "approx_location": false,
+   "score": 7,
+   "budget": "INR 15,000 - 40,000",
+   "site": "",
+   "phone": "+917965469992",
+   "chips": [
+    "No website"
+   ],
+   "findings": [
+    "A web search found no website of their own, only directory or social listings (confirm on Google Maps before pitching)."
+   ],
+   "offer": "Catalog website with WhatsApp ordering and enquiry button",
+   "price": "INR 15,000 - 40,000",
+   "upsell": "Inventory / catalog dashboard INR 25,000+",
+   "pitch": "Lead with: A web search found no website of their own, only directory or social listings (confirm on Google Maps before pitching). Then show a quick mock/fix and the catalog website with whatsapp ordering and enquiry button.",
+   "verify": true,
+   "site_source": "none",
+   "contacts": {
+    "emails": [],
+    "whatsapp": "",
+    "phones": [
+     "+917965469992"
+    ]
+   },
+   "email_subject": "A website for TDW Furniture Private Limited",
+   "email_body": "Hello TDW Furniture Private Limited team,\n\nMy name is Tanish. I'm a freelance web developer based in Shivranjani, Ahmedabad.\n\nWhile looking at showroom businesses in Ahmedabad, i could not find an official website for TDW Furniture Private Limited when searching online.\n\nI can help with a catalog website with WhatsApp ordering and enquiry button. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Starter business website (4-6 pages)",
+     "detail": "Home, services, about/team, gallery and contact pages, built mobile-first, with Google Maps, tap-to-call and a WhatsApp button. Add a Google Business Profile link so people searching their name find one official page. Usually live in 7-10 days.",
+     "price": "INR 12,000 - 25,000"
+    },
+    {
+     "title": "Custom CRM / management system",
+     "detail": "Inventory / catalog dashboard INR 25,000+",
+     "price": "INR 25,000 - 80,000"
+    }
+   ],
+   "ideas_note": "For a showroom / jeweller / furniture / boutique, new enquiries are what pay the bills, so start with 'Starter business website (4-6 pages)' because it fixes the clearest gap found. Offer the rest as an optional second phase once they see results.",
+   "msg": "Hi TDW Furniture Private Limited team, I'm Tanish, a freelance web developer in Shivranjani, Ahmedabad. I could not find an official website for TDW Furniture Private Limited when searching online. I can help with a catalog website with whatsapp ordering and enquiry button. I'd be glad to send a free 1-page audit with quick fixes, no obligation. Shall I send it over?\n\nTanish"
+  },
+  {
+   "id": "2026-11-24-india-stphilomenascollegeofnur",
+   "date": "2026-11-24",
+   "auto": true,
+   "region": "india",
+   "name": "St. Philomena's College of Nursing",
+   "niche": "Coaching / school / training academy",
+   "area": "Bengaluru",
+   "lat": null,
+   "lon": null,
+   "approx_location": false,
+   "score": 6,
+   "budget": "INR 12,000 - 25,000",
+   "site": "https://philomenasnursingcollege.com/",
+   "phone": "",
+   "chips": [
+    "No booking/enquiry",
+    "Outdated",
+    "Weak SEO"
+   ],
+   "findings": [
+    "No online booking, enquiry or management system found (a custom booking/CRM system can be sold).",
+    "Footer copyright still says 2024 (looks outdated).",
+    "No meta description (weaker Google snippet)."
+   ],
+   "offer": "Admissions website with enquiry form, course pages and WhatsApp lead capture",
+   "price": "INR 12,000 - 25,000",
+   "upsell": "Fee reminder / enquiry CRM automation INR 10,000+",
+   "pitch": "Lead with: No online booking, enquiry or management system found (a custom booking/CRM system can be sold). Then show a quick mock/fix and the admissions website with enquiry form, course pages and whatsapp lead capture.",
+   "verify": false,
+   "site_source": "osm",
+   "contacts": {
+    "emails": [
+     "stphilomenascon@yahoo.com"
+    ],
+    "whatsapp": "",
+    "phones": []
+   },
+   "email_subject": "A quick idea for St. Philomena's College of Nursing's website",
+   "email_body": "Hello St. Philomena's College of Nursing team,\n\nMy name is Tanish. I'm a freelance web developer based in Ahmedabad, India, and I work with businesses remotely.\n\nWhile looking at coaching businesses in Bengaluru, i noticed your website has no online booking or enquiry system, so enquiries may be getting lost.\n\nI can help with a admissions website with enquiry form, course pages and WhatsApp lead capture. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Business system / CRM",
+     "detail": "Admissions website with enquiry form, course pages and WhatsApp lead capture. Enquiries, bookings and follow-ups land in one dashboard (and on WhatsApp/email) so nothing is lost, with reminders and a simple customer list.",
+     "price": "INR 20,000 - 60,000"
+    },
+    {
+     "title": "Local SEO basics",
+     "detail": "Page titles and descriptions, Google Business Profile clean-up, and 'near me' service pages so they show up for local searches.",
+     "price": "INR 5,000 - 12,000 setup, or INR 3,000 - 6,000/month"
+    },
+    {
+     "title": "Content and design refresh",
+     "detail": "Update photos, services, fees and the footer year; give the site a current look without changing its structure.",
+     "price": "INR 10,000 - 20,000"
+    }
+   ],
+   "ideas_note": "For a coaching / school / training academy, new enquiries are what pay the bills, so start with 'Business system / CRM' because it fixes the clearest gap found. Offer the rest as an optional second phase once they see results.",
+   "msg": "Hi St. Philomena's College of Nursing team, I'm Tanish, a freelance web developer based in Ahmedabad, India, who works with clients remotely. I noticed your website has no online booking or enquiry system, so enquiries may be getting lost. I can help with a admissions website with enquiry form, course pages and whatsapp lead capture. I'd be glad to send a free 1-page audit with quick fixes, no obligation. Shall I send it over?\n\nTanish"
+  },
+  {
+   "id": "2026-11-24-india-bameysrestrocafe",
+   "date": "2026-11-24",
+   "auto": true,
+   "region": "india",
+   "name": "Bamey’s Restro Cafe",
+   "niche": "Restaurant / cafe chain",
+   "area": "Bengaluru",
+   "lat": null,
+   "lon": null,
+   "approx_location": false,
+   "score": 6,
+   "budget": "INR 12,000 - 30,000",
+   "site": "https://bameys.co/",
+   "phone": "+65485965789",
+   "chips": [
+    "Outdated"
+   ],
+   "findings": [
+    "Footer copyright still says 2023 (looks outdated)."
+   ],
+   "offer": "Menu + online ordering / table booking site with WhatsApp ordering",
+   "price": "INR 12,000 - 30,000",
+   "upsell": "Review + loyalty automation INR 10,000+",
+   "pitch": "Lead with: Footer copyright still says 2023 (looks outdated). Then show a quick mock/fix and the menu + online ordering / table booking site with whatsapp ordering.",
+   "verify": false,
+   "site_source": "osm",
+   "contacts": {
+    "emails": [
+     "bameysrestrocafe@gmail.com"
+    ],
+    "whatsapp": "",
+    "phones": [
+     "+65485965789"
+    ]
+   },
+   "email_subject": "A quick idea for Bamey’s Restro Cafe's website",
+   "email_body": "Hello Bamey’s Restro Cafe team,\n\nMy name is Tanish. I'm a freelance web developer based in Ahmedabad, India, and I work with businesses remotely.\n\nWhile looking at restaurant businesses in Bengaluru, i noticed your website looks like it has not been updated in a while.\n\nI can help with a menu + online ordering / table booking site with WhatsApp ordering. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Business system / CRM",
+     "detail": "Menu + online ordering / table booking site with WhatsApp ordering. Enquiries, bookings and follow-ups land in one dashboard (and on WhatsApp/email) so nothing is lost, with reminders and a simple customer list.",
+     "price": "INR 20,000 - 60,000"
+    },
+    {
+     "title": "Content and design refresh",
+     "detail": "Update photos, services, fees and the footer year; give the site a current look without changing its structure.",
+     "price": "INR 10,000 - 20,000"
+    }
+   ],
+   "ideas_note": "For a restaurant / cafe chain, new enquiries are what pay the bills, so start with 'Business system / CRM' because it fixes the clearest gap found. Offer the rest as an optional second phase once they see results.",
+   "msg": "Hi Bamey’s Restro Cafe team, I'm Tanish, a freelance web developer based in Ahmedabad, India, who works with clients remotely. I noticed your website looks like it has not been updated in a while. I can help with a menu + online ordering / table booking site with whatsapp ordering. I'd be glad to send a free 1-page audit with quick fixes, no obligation. Shall I send it over?\n\nTanish"
+  },
+  {
    "id": "2026-11-24-local-krsons",
    "date": "2026-11-24",
    "auto": true,
