@@ -1,6 +1,589 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "leads": [
+  {
+   "id": "2026-11-26-local-vatsalyamaternitynursing",
+   "date": "2026-11-26",
+   "auto": true,
+   "region": "local",
+   "name": "Vatsalya Maternity Nursing Home",
+   "niche": "Dental / skin / physio clinic",
+   "area": "Ahmedabad",
+   "lat": 23.03448,
+   "lon": 72.52123,
+   "approx_location": false,
+   "score": 7,
+   "budget": "INR 15,000 - 30,000",
+   "site": "",
+   "phone": "9824093149",
+   "chips": [
+    "No website"
+   ],
+   "findings": [
+    "A web search found no website of their own, only directory or social listings (confirm on Google Maps before pitching)."
+   ],
+   "offer": "Appointment website with online booking and WhatsApp enquiry",
+   "price": "INR 15,000 - 30,000",
+   "upsell": "Monthly Google profile + reminders retainer INR 4,000",
+   "pitch": "Lead with: A web search found no website of their own, only directory or social listings (confirm on Google Maps before pitching). Then show a quick mock/fix and the appointment website with online booking and whatsapp enquiry.",
+   "verify": true,
+   "site_source": "none",
+   "contacts": {
+    "emails": [],
+    "whatsapp": "",
+    "phones": [
+     "9824093149"
+    ]
+   },
+   "email_subject": "A website for Vatsalya Maternity Nursing Home",
+   "email_body": "Hello Vatsalya Maternity Nursing Home team,\n\nMy name is Tanish. I'm a freelance web developer based in Shivranjani, Ahmedabad.\n\nWhile looking at dental businesses in Ahmedabad, i could not find an official website for Vatsalya Maternity Nursing Home when searching online.\n\nI can help with a appointment website with online booking and WhatsApp enquiry. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Starter business website (4-6 pages)",
+     "detail": "Home, services, about/team, gallery and contact pages, built mobile-first, with Google Maps, tap-to-call and a WhatsApp button. Add a Google Business Profile link so people searching their name find one official page. Usually live in 7-10 days.",
+     "price": "INR 12,000 - 25,000"
+    },
+    {
+     "title": "Custom CRM / management system",
+     "detail": "Monthly Google profile + reminders retainer INR 4,000",
+     "price": "INR 25,000 - 80,000"
+    }
+   ],
+   "ideas_note": "For a dental / skin / physio clinic, new enquiries are what pay the bills, so start with 'Starter business website (4-6 pages)' because it fixes the clearest gap found. Offer the rest as an optional second phase once they see results.",
+   "msg": "Hi Vatsalya Maternity Nursing Home team, I'm Tanish, a freelance web developer in Shivranjani, Ahmedabad. I could not find an official website for Vatsalya Maternity Nursing Home when searching online. I can help with a appointment website with online booking and whatsapp enquiry. I'd be glad to send a free 1-page audit with quick fixes, no obligation. Shall I send it over?\n\nTanish"
+  },
+  {
+   "id": "2026-11-26-local-gajanandpauvahouse",
+   "date": "2026-11-26",
+   "auto": true,
+   "region": "local",
+   "name": "Gajanand Pauva House",
+   "niche": "Restaurant / cafe chain",
+   "area": "Ahmedabad",
+   "lat": 23.03718,
+   "lon": 72.52911,
+   "approx_location": false,
+   "score": 6,
+   "budget": "INR 12,000 - 30,000",
+   "site": "",
+   "phone": "",
+   "chips": [
+    "No website"
+   ],
+   "findings": [
+    "A web search found no website of their own, only directory or social listings (confirm on Google Maps before pitching)."
+   ],
+   "offer": "Menu + online ordering / table booking site with WhatsApp ordering",
+   "price": "INR 12,000 - 30,000",
+   "upsell": "Review + loyalty automation INR 10,000+",
+   "pitch": "Lead with: A web search found no website of their own, only directory or social listings (confirm on Google Maps before pitching). Then show a quick mock/fix and the menu + online ordering / table booking site with whatsapp ordering.",
+   "verify": true,
+   "site_source": "none",
+   "contacts": {
+    "emails": [],
+    "whatsapp": "",
+    "phones": []
+   },
+   "email_subject": "A website for Gajanand Pauva House",
+   "email_body": "Hello Gajanand Pauva House team,\n\nMy name is Tanish. I'm a freelance web developer based in Shivranjani, Ahmedabad.\n\nWhile looking at restaurant businesses in Ahmedabad, i could not find an official website for Gajanand Pauva House when searching online.\n\nI can help with a menu + online ordering / table booking site with WhatsApp ordering. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Starter business website (4-6 pages)",
+     "detail": "Home, services, about/team, gallery and contact pages, built mobile-first, with Google Maps, tap-to-call and a WhatsApp button. Add a Google Business Profile link so people searching their name find one official page. Usually live in 7-10 days.",
+     "price": "INR 12,000 - 25,000"
+    },
+    {
+     "title": "Custom CRM / management system",
+     "detail": "Review + loyalty automation INR 10,000+",
+     "price": "INR 25,000 - 80,000"
+    }
+   ],
+   "ideas_note": "For a restaurant / cafe chain, new enquiries are what pay the bills, so start with 'Starter business website (4-6 pages)' because it fixes the clearest gap found. Offer the rest as an optional second phase once they see results.",
+   "msg": "Hi Gajanand Pauva House team, I'm Tanish, a freelance web developer in Shivranjani, Ahmedabad. I could not find an official website for Gajanand Pauva House when searching online. I can help with a menu + online ordering / table booking site with whatsapp ordering. I'd be glad to send a free 1-page audit with quick fixes, no obligation. Shall I send it over?\n\nTanish"
+  },
+  {
+   "id": "2026-11-26-local-drmaulikpatwa",
+   "date": "2026-11-26",
+   "auto": true,
+   "region": "local",
+   "name": "Dr. Maulik Patwa",
+   "niche": "Dental / skin / physio clinic",
+   "area": "Ahmedabad",
+   "lat": 23.01729,
+   "lon": 72.55578,
+   "approx_location": false,
+   "score": 9,
+   "budget": "INR 15,000 - 30,000",
+   "site": "https://drmaulikpatwa.in/",
+   "phone": "",
+   "chips": [
+    "Needs manual review",
+    "Not mobile friendly"
+   ],
+   "findings": [
+    "The site builds its content with JavaScript, so contact/booking features could not be checked automatically. Open it and review manually.",
+    "No mobile viewport setting found in the page source."
+   ],
+   "offer": "Appointment website with online booking and WhatsApp enquiry",
+   "price": "INR 15,000 - 30,000",
+   "upsell": "Monthly Google profile + reminders retainer INR 4,000",
+   "pitch": "Lead with: The site builds its content with JavaScript, so contact/booking features could not be checked automatically. Open it and review manually. Then show a quick mock/fix and the appointment website with online booking and whatsapp enquiry.",
+   "verify": true,
+   "site_source": "osm",
+   "contacts": {
+    "emails": [],
+    "whatsapp": "",
+    "phones": []
+   },
+   "email_subject": "A quick idea for Dr. Maulik Patwa's website",
+   "email_body": "Hello Dr. Maulik Patwa team,\n\nMy name is Tanish. I'm a freelance web developer based in Shivranjani, Ahmedabad.\n\nWhile looking at dental businesses in Ahmedabad, i noticed your website does not seem to be set up for mobile screens.\n\nI can help with a appointment website with online booking and WhatsApp enquiry. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Mobile-first redesign",
+     "detail": "Most local searches happen on phones. Rebuild layouts for small screens: readable text, big tap targets, faster loading, clear services and contact sections.",
+     "price": "INR 12,000 - 25,000"
+    },
+    {
+     "title": "Custom CRM / management system",
+     "detail": "Monthly Google profile + reminders retainer INR 4,000",
+     "price": "INR 25,000 - 80,000"
+    }
+   ],
+   "ideas_note": "For a dental / skin / physio clinic, new enquiries are what pay the bills, so start with 'Mobile-first redesign' because it fixes the clearest gap found. Offer the rest as an optional second phase once they see results.",
+   "msg": "Hi Dr. Maulik Patwa team, I'm Tanish, a freelance web developer in Shivranjani, Ahmedabad. I noticed your website does not seem to be set up for mobile screens. I can help with a appointment website with online booking and whatsapp enquiry. I'd be glad to send a free 1-page audit with quick fixes, no obligation. Shall I send it over?\n\nTanish"
+  },
+  {
+   "id": "2026-11-26-local-montecarloexclusiveshowr",
+   "date": "2026-11-26",
+   "auto": true,
+   "region": "local",
+   "name": "Monte Carlo Exclusive Showroom",
+   "niche": "Showroom / jeweller / furniture / boutique",
+   "area": "ahmedabad",
+   "lat": 23.02004,
+   "lon": 72.55787,
+   "approx_location": false,
+   "score": 9,
+   "budget": "INR 15,000 - 40,000",
+   "site": "https://monteslc.com/",
+   "phone": "9898118854",
+   "chips": [],
+   "findings": [
+    "Site is in decent shape; the opportunity is a CRM / management system or automation."
+   ],
+   "offer": "Catalog website with WhatsApp ordering and enquiry button",
+   "price": "INR 15,000 - 40,000",
+   "upsell": "Inventory / catalog dashboard INR 25,000+",
+   "pitch": "Lead with: Site is in decent shape; the opportunity is a CRM / management system or automation. Then show a quick mock/fix and the catalog website with whatsapp ordering and enquiry button.",
+   "verify": true,
+   "site_source": "web search",
+   "contacts": {
+    "emails": [
+     "press@monteslc.com",
+     "alfonso@aycreative.pro",
+     "monteut@gmail.com"
+    ],
+    "whatsapp": "",
+    "phones": [
+     "9898118854",
+     "8015770551",
+     "+18592546589"
+    ]
+   },
+   "email_subject": "A quick idea for Monte Carlo Exclusive Showroom's website",
+   "email_body": "Hello Monte Carlo Exclusive Showroom team,\n\nMy name is Tanish. I'm a freelance web developer based in Shivranjani, Ahmedabad.\n\nWhile looking at showroom businesses in ahmedabad, i had a look at your online presence and see a few quick wins.\n\nI can help with a catalog website with WhatsApp ordering and enquiry button. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Business system / CRM",
+     "detail": "Catalog website with WhatsApp ordering and enquiry button. Enquiries, bookings and follow-ups land in one dashboard (and on WhatsApp/email) so nothing is lost, with reminders and a simple customer list.",
+     "price": "INR 20,000 - 60,000"
+    }
+   ],
+   "ideas_note": "For a showroom / jeweller / furniture / boutique, new enquiries are what pay the bills, so start with 'Business system / CRM' because it fixes the clearest gap found. Offer the rest as an optional second phase once they see results.",
+   "msg": "Hi Monte Carlo Exclusive Showroom team, I'm Tanish, a freelance web developer in Shivranjani, Ahmedabad. I had a look at your online presence and see a few quick wins. I can help with a catalog website with whatsapp ordering and enquiry button. I'd be glad to send a free 1-page audit with quick fixes, no obligation. Shall I send it over?\n\nTanish"
+  },
+  {
+   "id": "2026-11-26-local-payloadelectronicslabphy",
+   "date": "2026-11-26",
+   "auto": true,
+   "region": "local",
+   "name": "Payload Electronics Lab, Physical Research Laboratory",
+   "niche": "Showroom / jeweller / furniture / boutique",
+   "area": "Ahmedabad",
+   "lat": 23.04426,
+   "lon": 72.49543,
+   "approx_location": false,
+   "score": 9,
+   "budget": "INR 15,000 - 40,000",
+   "site": "https://www.prl.res.in/",
+   "phone": "07926304000",
+   "chips": [
+    "No booking/enquiry",
+    "Weak SEO"
+   ],
+   "findings": [
+    "No online booking, enquiry or management system found (a custom booking/CRM system can be sold).",
+    "No meta description (weaker Google snippet)."
+   ],
+   "offer": "Catalog website with WhatsApp ordering and enquiry button",
+   "price": "INR 15,000 - 40,000",
+   "upsell": "Inventory / catalog dashboard INR 25,000+",
+   "pitch": "Lead with: No online booking, enquiry or management system found (a custom booking/CRM system can be sold). Then show a quick mock/fix and the catalog website with whatsapp ordering and enquiry button.",
+   "verify": false,
+   "site_source": "osm",
+   "contacts": {
+    "emails": [
+     "info@prl.res.in"
+    ],
+    "whatsapp": "",
+    "phones": [
+     "07926304000"
+    ]
+   },
+   "email_subject": "A quick idea for Payload Electronics Lab, Physical Research Laboratory's website",
+   "email_body": "Hello Payload Electronics Lab, Physical Research Laboratory team,\n\nMy name is Tanish. I'm a freelance web developer based in Shivranjani, Ahmedabad.\n\nWhile looking at showroom businesses in Ahmedabad, i noticed your website has no online booking or enquiry system, so enquiries may be getting lost.\n\nI can help with a catalog website with WhatsApp ordering and enquiry button. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Business system / CRM",
+     "detail": "Catalog website with WhatsApp ordering and enquiry button. Enquiries, bookings and follow-ups land in one dashboard (and on WhatsApp/email) so nothing is lost, with reminders and a simple customer list.",
+     "price": "INR 20,000 - 60,000"
+    },
+    {
+     "title": "Local SEO basics",
+     "detail": "Page titles and descriptions, Google Business Profile clean-up, and 'near me' service pages so they show up for local searches.",
+     "price": "INR 5,000 - 12,000 setup, or INR 3,000 - 6,000/month"
+    }
+   ],
+   "ideas_note": "For a showroom / jeweller / furniture / boutique, new enquiries are what pay the bills, so start with 'Business system / CRM' because it fixes the clearest gap found. Offer the rest as an optional second phase once they see results.",
+   "msg": "Hi Payload Electronics Lab, Physical Research Laboratory team, I'm Tanish, a freelance web developer in Shivranjani, Ahmedabad. I noticed your website has no online booking or enquiry system, so enquiries may be getting lost. I can help with a catalog website with whatsapp ordering and enquiry button. I'd be glad to send a free 1-page audit with quick fixes, no obligation. Shall I send it over?\n\nTanish"
+  },
+  {
+   "id": "2026-11-26-india-",
+   "date": "2026-11-26",
+   "auto": true,
+   "region": "india",
+   "name": "चोइथराम सिटी क्लीनिक",
+   "niche": "Dental / skin / physio clinic",
+   "area": "Indore",
+   "lat": null,
+   "lon": null,
+   "approx_location": false,
+   "score": 8,
+   "budget": "INR 15,000 - 30,000",
+   "site": "http://www.choithram.org/",
+   "phone": "07312432535",
+   "chips": [
+    "Needs manual review",
+    "Not mobile friendly"
+   ],
+   "findings": [
+    "The site builds its content with JavaScript, so contact/booking features could not be checked automatically. Open it and review manually.",
+    "No mobile viewport setting found in the page source."
+   ],
+   "offer": "Appointment website with online booking and WhatsApp enquiry",
+   "price": "INR 15,000 - 30,000",
+   "upsell": "Monthly Google profile + reminders retainer INR 4,000",
+   "pitch": "Lead with: The site builds its content with JavaScript, so contact/booking features could not be checked automatically. Open it and review manually. Then show a quick mock/fix and the appointment website with online booking and whatsapp enquiry.",
+   "verify": true,
+   "site_source": "osm",
+   "contacts": {
+    "emails": [
+     "medicine@choithram.org"
+    ],
+    "whatsapp": "",
+    "phones": [
+     "07312432535"
+    ]
+   },
+   "email_subject": "A quick idea for चोइथराम सिटी क्लीनिक's website",
+   "email_body": "Hello चोइथराम सिटी क्लीनिक team,\n\nMy name is Tanish. I'm a freelance web developer based in Ahmedabad, India, and I work with businesses remotely.\n\nWhile looking at dental businesses in Indore, i noticed your website does not seem to be set up for mobile screens.\n\nI can help with a appointment website with online booking and WhatsApp enquiry. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Mobile-first redesign",
+     "detail": "Most local searches happen on phones. Rebuild layouts for small screens: readable text, big tap targets, faster loading, clear services and contact sections.",
+     "price": "INR 12,000 - 25,000"
+    },
+    {
+     "title": "Custom CRM / management system",
+     "detail": "Monthly Google profile + reminders retainer INR 4,000",
+     "price": "INR 25,000 - 80,000"
+    }
+   ],
+   "ideas_note": "For a dental / skin / physio clinic, new enquiries are what pay the bills, so start with 'Mobile-first redesign' because it fixes the clearest gap found. Offer the rest as an optional second phase once they see results.",
+   "msg": "Hi चोइथराम सिटी क्लीनिक team, I'm Tanish, a freelance web developer based in Ahmedabad, India, who works with clients remotely. I noticed your website does not seem to be set up for mobile screens. I can help with a appointment website with online booking and whatsapp enquiry. I'd be glad to send a free 1-page audit with quick fixes, no obligation. Shall I send it over?\n\nTanish"
+  },
+  {
+   "id": "2026-11-26-india-madhavbaug",
+   "date": "2026-11-26",
+   "auto": true,
+   "region": "india",
+   "name": "Madhavbaug",
+   "niche": "Dental / skin / physio clinic",
+   "area": "Indore",
+   "lat": null,
+   "lon": null,
+   "approx_location": false,
+   "score": 6,
+   "budget": "INR 15,000 - 30,000",
+   "site": "https://madhavbaug.org/",
+   "phone": "9109979733",
+   "chips": [
+    "No booking/enquiry"
+   ],
+   "findings": [
+    "No online booking, enquiry or management system found (a custom booking/CRM system can be sold)."
+   ],
+   "offer": "Appointment website with online booking and WhatsApp enquiry",
+   "price": "INR 15,000 - 30,000",
+   "upsell": "Monthly Google profile + reminders retainer INR 4,000",
+   "pitch": "Lead with: No online booking, enquiry or management system found (a custom booking/CRM system can be sold). Then show a quick mock/fix and the appointment website with online booking and whatsapp enquiry.",
+   "verify": false,
+   "site_source": "osm",
+   "contacts": {
+    "emails": [
+     "info@madhavbaug.org"
+    ],
+    "whatsapp": "",
+    "phones": [
+     "9109979733",
+     "+917688830111",
+     "7688830111"
+    ]
+   },
+   "email_subject": "A quick idea for Madhavbaug's website",
+   "email_body": "Hello Madhavbaug team,\n\nMy name is Tanish. I'm a freelance web developer based in Ahmedabad, India, and I work with businesses remotely.\n\nWhile looking at dental businesses in Indore, i noticed your website has no online booking or enquiry system, so enquiries may be getting lost.\n\nI can help with a appointment website with online booking and WhatsApp enquiry. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Business system / CRM",
+     "detail": "Appointment website with online booking and WhatsApp enquiry. Enquiries, bookings and follow-ups land in one dashboard (and on WhatsApp/email) so nothing is lost, with reminders and a simple customer list.",
+     "price": "INR 20,000 - 60,000"
+    }
+   ],
+   "ideas_note": "For a dental / skin / physio clinic, new enquiries are what pay the bills, so start with 'Business system / CRM' because it fixes the clearest gap found. Offer the rest as an optional second phase once they see results.",
+   "msg": "Hi Madhavbaug team, I'm Tanish, a freelance web developer based in Ahmedabad, India, who works with clients remotely. I noticed your website has no online booking or enquiry system, so enquiries may be getting lost. I can help with a appointment website with online booking and whatsapp enquiry. I'd be glad to send a free 1-page audit with quick fixes, no obligation. Shall I send it over?\n\nTanish"
+  },
+  {
+   "id": "2026-11-26-india-stpaulinstituteofprofess",
+   "date": "2026-11-26",
+   "auto": true,
+   "region": "india",
+   "name": "St. Paul Institute Of Professional Studies",
+   "niche": "Coaching / school / training academy",
+   "area": "Indore",
+   "lat": null,
+   "lon": null,
+   "approx_location": false,
+   "score": 6,
+   "budget": "INR 12,000 - 25,000",
+   "site": "https://www.stpaulindore.com/",
+   "phone": "9575773439",
+   "chips": [
+    "Outdated"
+   ],
+   "findings": [
+    "Footer copyright still says 2017 (looks outdated)."
+   ],
+   "offer": "Admissions website with enquiry form, course pages and WhatsApp lead capture",
+   "price": "INR 12,000 - 25,000",
+   "upsell": "Fee reminder / enquiry CRM automation INR 10,000+",
+   "pitch": "Lead with: Footer copyright still says 2017 (looks outdated). Then show a quick mock/fix and the admissions website with enquiry form, course pages and whatsapp lead capture.",
+   "verify": false,
+   "site_source": "osm",
+   "contacts": {
+    "emails": [
+     "stpaulhssindore@gmail.com",
+     "stpaulindore@gmail.com"
+    ],
+    "whatsapp": "",
+    "phones": [
+     "9575773439"
+    ]
+   },
+   "email_subject": "A quick idea for St. Paul Institute Of Professional Studies's website",
+   "email_body": "Hello St. Paul Institute Of Professional Studies team,\n\nMy name is Tanish. I'm a freelance web developer based in Ahmedabad, India, and I work with businesses remotely.\n\nWhile looking at coaching businesses in Indore, i noticed your website looks like it has not been updated in a while.\n\nI can help with a admissions website with enquiry form, course pages and WhatsApp lead capture. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Business system / CRM",
+     "detail": "Admissions website with enquiry form, course pages and WhatsApp lead capture. Enquiries, bookings and follow-ups land in one dashboard (and on WhatsApp/email) so nothing is lost, with reminders and a simple customer list.",
+     "price": "INR 20,000 - 60,000"
+    },
+    {
+     "title": "Content and design refresh",
+     "detail": "Update photos, services, fees and the footer year; give the site a current look without changing its structure.",
+     "price": "INR 10,000 - 20,000"
+    }
+   ],
+   "ideas_note": "For a coaching / school / training academy, new enquiries are what pay the bills, so start with 'Business system / CRM' because it fixes the clearest gap found. Offer the rest as an optional second phase once they see results.",
+   "msg": "Hi St. Paul Institute Of Professional Studies team, I'm Tanish, a freelance web developer based in Ahmedabad, India, who works with clients remotely. I noticed your website looks like it has not been updated in a while. I can help with a admissions website with enquiry form, course pages and whatsapp lead capture. I'd be glad to send a free 1-page audit with quick fixes, no obligation. Shall I send it over?\n\nTanish"
+  },
+  {
+   "id": "2026-11-26-intl-placecolseapoint",
+   "date": "2026-11-26",
+   "auto": true,
+   "region": "intl",
+   "name": "Placecol Sea Point",
+   "niche": "Gym / salon / spa / events",
+   "area": "Cape Town, South Africa",
+   "lat": null,
+   "lon": null,
+   "approx_location": false,
+   "score": 7,
+   "budget": "USD 300 - 600",
+   "site": "https://placecol.com/",
+   "phone": "+27 21 433 1890",
+   "chips": [
+    "No booking/enquiry",
+    "Outdated",
+    "Weak SEO"
+   ],
+   "findings": [
+    "No online booking, enquiry or management system found (a custom booking/CRM system can be sold).",
+    "Footer copyright still says 2020 (looks outdated).",
+    "No meta description (weaker Google snippet)."
+   ],
+   "offer": "Membership / booking website with WhatsApp and offers page",
+   "price": "USD 300 - 600",
+   "upsell": "Membership renewal reminder automation USD 300+",
+   "pitch": "Lead with: No online booking, enquiry or management system found (a custom booking/CRM system can be sold). Then show a quick mock/fix and the membership / booking website with whatsapp and offers page.",
+   "verify": false,
+   "site_source": "osm",
+   "contacts": {
+    "emails": [
+     "info@placecol.com",
+     "seapoint@placecol.com"
+    ],
+    "whatsapp": "",
+    "phones": [
+     "+27 21 433 1890",
+     "0110869800",
+     "+27861112222"
+    ]
+   },
+   "email_subject": "A quick idea for Placecol Sea Point's website",
+   "email_body": "Hello Placecol Sea Point team,\n\nMy name is Tanish. I'm a freelance web developer based in Ahmedabad, India, and I work with businesses remotely.\n\nWhile looking at gym businesses in Cape Town, South Africa, i noticed your website has no online booking or enquiry system, so enquiries may be getting lost.\n\nI can help with a membership / booking website with WhatsApp and offers page. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Business system / CRM",
+     "detail": "Membership / booking website with WhatsApp and offers page. Enquiries, bookings and follow-ups land in one dashboard (and on WhatsApp/email) so nothing is lost, with reminders and a simple customer list.",
+     "price": "USD 600 - 1,800"
+    },
+    {
+     "title": "Local SEO basics",
+     "detail": "Page titles and descriptions, Google Business Profile clean-up, and 'near me' service pages so they show up for local searches.",
+     "price": "USD 150 - 350 setup, or USD 100 - 200/month"
+    },
+    {
+     "title": "Content and design refresh",
+     "detail": "Update photos, services, fees and the footer year; give the site a current look without changing its structure.",
+     "price": "USD 300 - 600"
+    }
+   ],
+   "ideas_note": "For a gym / salon / spa / events, new enquiries are what pay the bills, so start with 'Business system / CRM' because it fixes the clearest gap found. Offer the rest as an optional second phase once they see results.",
+   "msg": "Hi Placecol Sea Point team, I'm Tanish, a freelance web developer based in Ahmedabad, India, who works with clients remotely. I noticed your website has no online booking or enquiry system, so enquiries may be getting lost. I can help with a membership / booking website with whatsapp and offers page. I'd be glad to send a free 1-page audit with quick fixes, no obligation. Shall I send it over?\n\nTanish"
+  },
+  {
+   "id": "2026-11-26-intl-districtcafe",
+   "date": "2026-11-26",
+   "auto": true,
+   "region": "intl",
+   "name": "District Cafe",
+   "niche": "Restaurant / cafe chain",
+   "area": "Cape Town, South Africa",
+   "lat": null,
+   "lon": null,
+   "approx_location": false,
+   "score": 7,
+   "budget": "USD 350 - 900",
+   "site": "http://www.districtcafe.co.za/",
+   "phone": "",
+   "chips": [
+    "No HTTPS",
+    "No booking/enquiry"
+   ],
+   "findings": [
+    "Site is not served over HTTPS (browser shows 'Not secure').",
+    "No online booking, enquiry or management system found (a custom booking/CRM system can be sold)."
+   ],
+   "offer": "Menu + online ordering / table booking site with WhatsApp ordering",
+   "price": "USD 350 - 900",
+   "upsell": "Review + loyalty automation USD 300+",
+   "pitch": "Lead with: Site is not served over HTTPS (browser shows 'Not secure'). Then show a quick mock/fix and the menu + online ordering / table booking site with whatsapp ordering.",
+   "verify": false,
+   "site_source": "osm",
+   "contacts": {
+    "emails": [
+     "info@districtcafe.co.za"
+    ],
+    "whatsapp": "",
+    "phones": []
+   },
+   "email_subject": "A quick idea for District Cafe's website",
+   "email_body": "Hello District Cafe team,\n\nMy name is Tanish. I'm a freelance web developer based in Ahmedabad, India, and I work with businesses remotely.\n\nWhile looking at restaurant businesses in Cape Town, South Africa, i noticed your website shows a 'Not secure' warning in browsers.\n\nI can help with a menu + online ordering / table booking site with WhatsApp ordering. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Security and trust fix",
+     "detail": "Install an SSL certificate and force HTTPS so browsers stop showing 'Not secure' on forms. Usually 1-2 days; best bundled with a redesign.",
+     "price": "USD 50 - 150"
+    },
+    {
+     "title": "Business system / CRM",
+     "detail": "Menu + online ordering / table booking site with WhatsApp ordering. Enquiries, bookings and follow-ups land in one dashboard (and on WhatsApp/email) so nothing is lost, with reminders and a simple customer list.",
+     "price": "USD 600 - 1,800"
+    }
+   ],
+   "ideas_note": "For a restaurant / cafe chain, new enquiries are what pay the bills, so start with 'Security and trust fix' because it fixes the clearest gap found. Offer the rest as an optional second phase once they see results.",
+   "msg": "Hi District Cafe team, I'm Tanish, a freelance web developer based in Ahmedabad, India, who works with clients remotely. I noticed your website shows a 'Not secure' warning in browsers. I can help with a menu + online ordering / table booking site with whatsapp ordering. I'd be glad to send a free 1-page audit with quick fixes, no obligation. Shall I send it over?\n\nTanish"
+  },
+  {
+   "id": "2026-11-26-intl-117kloof",
+   "date": "2026-11-26",
+   "auto": true,
+   "region": "intl",
+   "name": "117 Kloof",
+   "niche": "Restaurant / cafe chain",
+   "area": "Cape Town, South Africa",
+   "lat": null,
+   "lon": null,
+   "approx_location": false,
+   "score": 7,
+   "budget": "USD 350 - 900",
+   "site": "https://www.ourlocal.co.za/",
+   "phone": "+27646425004",
+   "chips": [
+    "No booking/enquiry"
+   ],
+   "findings": [
+    "No online booking, enquiry or management system found (a custom booking/CRM system can be sold)."
+   ],
+   "offer": "Menu + online ordering / table booking site with WhatsApp ordering",
+   "price": "USD 350 - 900",
+   "upsell": "Review + loyalty automation USD 300+",
+   "pitch": "Lead with: No online booking, enquiry or management system found (a custom booking/CRM system can be sold). Then show a quick mock/fix and the menu + online ordering / table booking site with whatsapp ordering.",
+   "verify": false,
+   "site_source": "osm",
+   "contacts": {
+    "emails": [
+     "events@ourlocal.co.za",
+     "kloofstreet@ourlocal.co.za",
+     "seapoint@ourlocal.co.za"
+    ],
+    "whatsapp": "",
+    "phones": [
+     "+27646425004"
+    ]
+   },
+   "email_subject": "A quick idea for 117 Kloof's website",
+   "email_body": "Hello 117 Kloof team,\n\nMy name is Tanish. I'm a freelance web developer based in Ahmedabad, India, and I work with businesses remotely.\n\nWhile looking at restaurant businesses in Cape Town, South Africa, i noticed your website has no online booking or enquiry system, so enquiries may be getting lost.\n\nI can help with a menu + online ordering / table booking site with WhatsApp ordering. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Business system / CRM",
+     "detail": "Menu + online ordering / table booking site with WhatsApp ordering. Enquiries, bookings and follow-ups land in one dashboard (and on WhatsApp/email) so nothing is lost, with reminders and a simple customer list.",
+     "price": "USD 600 - 1,800"
+    }
+   ],
+   "ideas_note": "For a restaurant / cafe chain, new enquiries are what pay the bills, so start with 'Business system / CRM' because it fixes the clearest gap found. Offer the rest as an optional second phase once they see results.",
+   "msg": "Hi 117 Kloof team, I'm Tanish, a freelance web developer based in Ahmedabad, India, who works with clients remotely. I noticed your website has no online booking or enquiry system, so enquiries may be getting lost. I can help with a menu + online ordering / table booking site with whatsapp ordering. I'd be glad to send a free 1-page audit with quick fixes, no obligation. Shall I send it over?\n\nTanish"
+  },
   {
    "id": "2026-11-25-local-lamilanopizzeriaprahladn",
    "date": "2026-11-25",
