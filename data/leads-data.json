@@ -1,6 +1,572 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "leads": [
+  {
+   "id": "2026-11-28-local-amritavidyalayam",
+   "date": "2026-11-28",
+   "auto": true,
+   "region": "local",
+   "name": "Amrita Vidyalayam",
+   "niche": "Coaching / school / training academy",
+   "area": "Ahmedabad",
+   "lat": 23.06758,
+   "lon": 72.53712,
+   "approx_location": false,
+   "score": 8,
+   "budget": "INR 12,000 - 25,000",
+   "site": "https://www.amritavidyalayam.co.in/",
+   "phone": "+07927452009",
+   "chips": [
+    "No booking/enquiry",
+    "Outdated"
+   ],
+   "findings": [
+    "No online booking, enquiry or management system found (a custom booking/CRM system can be sold).",
+    "Footer copyright still says 2024 (looks outdated)."
+   ],
+   "offer": "Admissions website with enquiry form, course pages and WhatsApp lead capture",
+   "price": "INR 12,000 - 25,000",
+   "upsell": "Fee reminder / enquiry CRM automation INR 10,000+",
+   "pitch": "Lead with: No online booking, enquiry or management system found (a custom booking/CRM system can be sold). Then show a quick mock/fix and the admissions website with enquiry form, course pages and whatsapp lead capture.",
+   "verify": false,
+   "site_source": "osm",
+   "contacts": {
+    "emails": [
+     "info@amritavidyalayam.co.in"
+    ],
+    "whatsapp": "",
+    "phones": [
+     "+07927452009",
+     "+07927494563"
+    ]
+   },
+   "email_subject": "A quick idea for Amrita Vidyalayam's website",
+   "email_body": "Hello Amrita Vidyalayam team,\n\nMy name is Tanish. I'm a freelance web developer based in Shivranjani, Ahmedabad.\n\nWhile looking at coaching businesses in Ahmedabad, i noticed your website has no online booking or enquiry system, so enquiries may be getting lost.\n\nI can help with a admissions website with enquiry form, course pages and WhatsApp lead capture. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Business system / CRM",
+     "detail": "Admissions website with enquiry form, course pages and WhatsApp lead capture. Enquiries, bookings and follow-ups land in one dashboard (and on WhatsApp/email) so nothing is lost, with reminders and a simple customer list.",
+     "price": "INR 20,000 - 60,000"
+    },
+    {
+     "title": "Content and design refresh",
+     "detail": "Update photos, services, fees and the footer year; give the site a current look without changing its structure.",
+     "price": "INR 10,000 - 20,000"
+    }
+   ],
+   "ideas_note": "For a coaching / school / training academy, new enquiries are what pay the bills, so start with 'Business system / CRM' because it fixes the clearest gap found. Offer the rest as an optional second phase once they see results.",
+   "msg": "Hi Amrita Vidyalayam team, I'm Tanish, a freelance web developer in Shivranjani, Ahmedabad. I noticed your website has no online booking or enquiry system, so enquiries may be getting lost. I can help with a admissions website with enquiry form, course pages and whatsapp lead capture. I'd be glad to send a free 1-page audit with quick fixes, no obligation. Shall I send it over?\n\nTanish"
+  },
+  {
+   "id": "2026-11-28-local-diwanbhelpakodicenter",
+   "date": "2026-11-28",
+   "auto": true,
+   "region": "local",
+   "name": "Diwan Bhel Pakodi Center",
+   "niche": "Restaurant / cafe chain",
+   "area": "Ahmedabad",
+   "lat": 23.01637,
+   "lon": 72.5248,
+   "approx_location": false,
+   "score": 7,
+   "budget": "INR 12,000 - 30,000",
+   "site": "https://www.diwanny.com/",
+   "phone": "5164394200",
+   "chips": [
+    "No booking/enquiry"
+   ],
+   "findings": [
+    "No online booking, enquiry or management system found (a custom booking/CRM system can be sold)."
+   ],
+   "offer": "Menu + online ordering / table booking site with WhatsApp ordering",
+   "price": "INR 12,000 - 30,000",
+   "upsell": "Review + loyalty automation INR 10,000+",
+   "pitch": "Lead with: No online booking, enquiry or management system found (a custom booking/CRM system can be sold). Then show a quick mock/fix and the menu + online ordering / table booking site with whatsapp ordering.",
+   "verify": true,
+   "site_source": "web search",
+   "contacts": {
+    "emails": [
+     "info@diwanny.com"
+    ],
+    "whatsapp": "",
+    "phones": [
+     "5164394200"
+    ]
+   },
+   "email_subject": "A quick idea for Diwan Bhel Pakodi Center's website",
+   "email_body": "Hello Diwan Bhel Pakodi Center team,\n\nMy name is Tanish. I'm a freelance web developer based in Shivranjani, Ahmedabad.\n\nWhile looking at restaurant businesses in Ahmedabad, i noticed your website has no online booking or enquiry system, so enquiries may be getting lost.\n\nI can help with a menu + online ordering / table booking site with WhatsApp ordering. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Business system / CRM",
+     "detail": "Menu + online ordering / table booking site with WhatsApp ordering. Enquiries, bookings and follow-ups land in one dashboard (and on WhatsApp/email) so nothing is lost, with reminders and a simple customer list.",
+     "price": "INR 20,000 - 60,000"
+    }
+   ],
+   "ideas_note": "For a restaurant / cafe chain, new enquiries are what pay the bills, so start with 'Business system / CRM' because it fixes the clearest gap found. Offer the rest as an optional second phase once they see results.",
+   "msg": "Hi Diwan Bhel Pakodi Center team, I'm Tanish, a freelance web developer in Shivranjani, Ahmedabad. I noticed your website has no online booking or enquiry system, so enquiries may be getting lost. I can help with a menu + online ordering / table booking site with whatsapp ordering. I'd be glad to send a free 1-page audit with quick fixes, no obligation. Shall I send it over?\n\nTanish"
+  },
+  {
+   "id": "2026-11-28-local-atithidininghall",
+   "date": "2026-11-28",
+   "auto": true,
+   "region": "local",
+   "name": "Atithi Dining Hall",
+   "niche": "Restaurant / cafe chain",
+   "area": "Ahmedabad",
+   "lat": 23.03811,
+   "lon": 72.51381,
+   "approx_location": false,
+   "score": 7,
+   "budget": "INR 12,000 - 30,000",
+   "site": "https://www.atithiindia.com/",
+   "phone": "+917926858806",
+   "chips": [
+    "No booking/enquiry",
+    "Outdated"
+   ],
+   "findings": [
+    "No online booking, enquiry or management system found (a custom booking/CRM system can be sold).",
+    "Footer copyright still says 1900 (looks outdated)."
+   ],
+   "offer": "Menu + online ordering / table booking site with WhatsApp ordering",
+   "price": "INR 12,000 - 30,000",
+   "upsell": "Review + loyalty automation INR 10,000+",
+   "pitch": "Lead with: No online booking, enquiry or management system found (a custom booking/CRM system can be sold). Then show a quick mock/fix and the menu + online ordering / table booking site with whatsapp ordering.",
+   "verify": false,
+   "site_source": "osm",
+   "contacts": {
+    "emails": [
+     "info.atithiindia@gmail.com"
+    ],
+    "whatsapp": "",
+    "phones": [
+     "+917926858806",
+     "8866551409"
+    ]
+   },
+   "email_subject": "A quick idea for Atithi Dining Hall's website",
+   "email_body": "Hello Atithi Dining Hall team,\n\nMy name is Tanish. I'm a freelance web developer based in Shivranjani, Ahmedabad.\n\nWhile looking at restaurant businesses in Ahmedabad, i noticed your website has no online booking or enquiry system, so enquiries may be getting lost.\n\nI can help with a menu + online ordering / table booking site with WhatsApp ordering. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Business system / CRM",
+     "detail": "Menu + online ordering / table booking site with WhatsApp ordering. Enquiries, bookings and follow-ups land in one dashboard (and on WhatsApp/email) so nothing is lost, with reminders and a simple customer list.",
+     "price": "INR 20,000 - 60,000"
+    },
+    {
+     "title": "Content and design refresh",
+     "detail": "Update photos, services, fees and the footer year; give the site a current look without changing its structure.",
+     "price": "INR 10,000 - 20,000"
+    }
+   ],
+   "ideas_note": "For a restaurant / cafe chain, new enquiries are what pay the bills, so start with 'Business system / CRM' because it fixes the clearest gap found. Offer the rest as an optional second phase once they see results.",
+   "msg": "Hi Atithi Dining Hall team, I'm Tanish, a freelance web developer in Shivranjani, Ahmedabad. I noticed your website has no online booking or enquiry system, so enquiries may be getting lost. I can help with a menu + online ordering / table booking site with whatsapp ordering. I'd be glad to send a free 1-page audit with quick fixes, no obligation. Shall I send it over?\n\nTanish"
+  },
+  {
+   "id": "2026-11-28-local-nirmavidyavihar",
+   "date": "2026-11-28",
+   "auto": true,
+   "region": "local",
+   "name": "Nirma Vidyavihar",
+   "niche": "Coaching / school / training academy",
+   "area": "Ahmedabad",
+   "lat": 23.04256,
+   "lon": 72.51651,
+   "approx_location": false,
+   "score": 7,
+   "budget": "INR 12,000 - 25,000",
+   "site": "https://www.nirmavidyavihar.co.in/",
+   "phone": "",
+   "chips": [
+    "Needs manual review",
+    "Not mobile friendly"
+   ],
+   "findings": [
+    "The site builds its content with JavaScript, so contact/booking features could not be checked automatically. Open it and review manually.",
+    "No mobile viewport setting found in the page source."
+   ],
+   "offer": "Admissions website with enquiry form, course pages and WhatsApp lead capture",
+   "price": "INR 12,000 - 25,000",
+   "upsell": "Fee reminder / enquiry CRM automation INR 10,000+",
+   "pitch": "Lead with: The site builds its content with JavaScript, so contact/booking features could not be checked automatically. Open it and review manually. Then show a quick mock/fix and the admissions website with enquiry form, course pages and whatsapp lead capture.",
+   "verify": true,
+   "site_source": "osm",
+   "contacts": {
+    "emails": [],
+    "whatsapp": "",
+    "phones": []
+   },
+   "email_subject": "A quick idea for Nirma Vidyavihar's website",
+   "email_body": "Hello Nirma Vidyavihar team,\n\nMy name is Tanish. I'm a freelance web developer based in Shivranjani, Ahmedabad.\n\nWhile looking at coaching businesses in Ahmedabad, i noticed your website does not seem to be set up for mobile screens.\n\nI can help with a admissions website with enquiry form, course pages and WhatsApp lead capture. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Mobile-first redesign",
+     "detail": "Most local searches happen on phones. Rebuild layouts for small screens: readable text, big tap targets, faster loading, clear services and contact sections.",
+     "price": "INR 12,000 - 25,000"
+    },
+    {
+     "title": "Custom CRM / management system",
+     "detail": "Fee reminder / enquiry CRM automation INR 10,000+",
+     "price": "INR 25,000 - 80,000"
+    }
+   ],
+   "ideas_note": "For a coaching / school / training academy, new enquiries are what pay the bills, so start with 'Mobile-first redesign' because it fixes the clearest gap found. Offer the rest as an optional second phase once they see results.",
+   "msg": "Hi Nirma Vidyavihar team, I'm Tanish, a freelance web developer in Shivranjani, Ahmedabad. I noticed your website does not seem to be set up for mobile screens. I can help with a admissions website with enquiry form, course pages and whatsapp lead capture. I'd be glad to send a free 1-page audit with quick fixes, no obligation. Shall I send it over?\n\nTanish"
+  },
+  {
+   "id": "2026-11-28-india-straceymemorialhighschoo",
+   "date": "2026-11-28",
+   "auto": true,
+   "region": "india",
+   "name": "Stracey Memorial High School",
+   "niche": "Coaching / school / training academy",
+   "area": "Bengaluru",
+   "lat": null,
+   "lon": null,
+   "approx_location": false,
+   "score": 7,
+   "budget": "INR 12,000 - 25,000",
+   "site": "https://stracey50.com/",
+   "phone": "+91 80 2559 2558",
+   "chips": [
+    "Not mobile friendly",
+    "No booking/enquiry",
+    "Outdated",
+    "Weak SEO"
+   ],
+   "findings": [
+    "No mobile viewport setting found in the page source (likely not optimised for phones).",
+    "No online booking, enquiry or management system found (a custom booking/CRM system can be sold).",
+    "Footer copyright still says 2013 (looks outdated)."
+   ],
+   "offer": "Admissions website with enquiry form, course pages and WhatsApp lead capture",
+   "price": "INR 12,000 - 25,000",
+   "upsell": "Fee reminder / enquiry CRM automation INR 10,000+",
+   "pitch": "Lead with: No mobile viewport setting found in the page source (likely not optimised for phones). Then show a quick mock/fix and the admissions website with enquiry form, course pages and whatsapp lead capture.",
+   "verify": false,
+   "site_source": "osm",
+   "contacts": {
+    "emails": [
+     "stracey06@yahoo.co.in"
+    ],
+    "whatsapp": "",
+    "phones": [
+     "+91 80 2559 2558"
+    ]
+   },
+   "email_subject": "A quick idea for Stracey Memorial High School's website",
+   "email_body": "Hello Stracey Memorial High School team,\n\nMy name is Tanish. I'm a freelance web developer based in Ahmedabad, India, and I work with businesses remotely.\n\nWhile looking at coaching businesses in Bengaluru, i noticed your website does not seem to be set up for mobile screens.\n\nI can help with a admissions website with enquiry form, course pages and WhatsApp lead capture. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Mobile-first redesign",
+     "detail": "Most local searches happen on phones. Rebuild layouts for small screens: readable text, big tap targets, faster loading, clear services and contact sections.",
+     "price": "INR 12,000 - 25,000"
+    },
+    {
+     "title": "Business system / CRM",
+     "detail": "Admissions website with enquiry form, course pages and WhatsApp lead capture. Enquiries, bookings and follow-ups land in one dashboard (and on WhatsApp/email) so nothing is lost, with reminders and a simple customer list.",
+     "price": "INR 20,000 - 60,000"
+    },
+    {
+     "title": "Local SEO basics",
+     "detail": "Page titles and descriptions, Google Business Profile clean-up, and 'near me' service pages so they show up for local searches.",
+     "price": "INR 5,000 - 12,000 setup, or INR 3,000 - 6,000/month"
+    },
+    {
+     "title": "Content and design refresh",
+     "detail": "Update photos, services, fees and the footer year; give the site a current look without changing its structure.",
+     "price": "INR 10,000 - 20,000"
+    }
+   ],
+   "ideas_note": "For a coaching / school / training academy, new enquiries are what pay the bills, so start with 'Mobile-first redesign' because it fixes the clearest gap found. Offer the rest as an optional second phase once they see results.",
+   "msg": "Hi Stracey Memorial High School team, I'm Tanish, a freelance web developer based in Ahmedabad, India, who works with clients remotely. I noticed your website does not seem to be set up for mobile screens. I can help with a admissions website with enquiry form, course pages and whatsapp lead capture. I'd be glad to send a free 1-page audit with quick fixes, no obligation. Shall I send it over?\n\nTanish"
+  },
+  {
+   "id": "2026-11-28-india-rajivgandhicollegeoflaw",
+   "date": "2026-11-28",
+   "auto": true,
+   "region": "india",
+   "name": "Rajiv Gandhi College Of Law",
+   "niche": "Coaching / school / training academy",
+   "area": "Bengaluru",
+   "lat": null,
+   "lon": null,
+   "approx_location": false,
+   "score": 6,
+   "budget": "INR 12,000 - 25,000",
+   "site": "http://www.rajivgandhicollegeoflaw.in/",
+   "phone": "+91 98440 51880",
+   "chips": [
+    "No HTTPS",
+    "No booking/enquiry"
+   ],
+   "findings": [
+    "Site is not served over HTTPS (browser shows 'Not secure').",
+    "No online booking, enquiry or management system found (a custom booking/CRM system can be sold)."
+   ],
+   "offer": "Admissions website with enquiry form, course pages and WhatsApp lead capture",
+   "price": "INR 12,000 - 25,000",
+   "upsell": "Fee reminder / enquiry CRM automation INR 10,000+",
+   "pitch": "Lead with: Site is not served over HTTPS (browser shows 'Not secure'). Then show a quick mock/fix and the admissions website with enquiry form, course pages and whatsapp lead capture.",
+   "verify": false,
+   "site_source": "osm",
+   "contacts": {
+    "emails": [
+     "rgcl1994@gmail.com"
+    ],
+    "whatsapp": "",
+    "phones": [
+     "+91 98440 51880"
+    ]
+   },
+   "email_subject": "A quick idea for Rajiv Gandhi College Of Law's website",
+   "email_body": "Hello Rajiv Gandhi College Of Law team,\n\nMy name is Tanish. I'm a freelance web developer based in Ahmedabad, India, and I work with businesses remotely.\n\nWhile looking at coaching businesses in Bengaluru, i noticed your website shows a 'Not secure' warning in browsers.\n\nI can help with a admissions website with enquiry form, course pages and WhatsApp lead capture. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Security and trust fix",
+     "detail": "Install an SSL certificate and force HTTPS so browsers stop showing 'Not secure' on forms. Usually 1-2 days; best bundled with a redesign.",
+     "price": "INR 2,000 - 5,000"
+    },
+    {
+     "title": "Business system / CRM",
+     "detail": "Admissions website with enquiry form, course pages and WhatsApp lead capture. Enquiries, bookings and follow-ups land in one dashboard (and on WhatsApp/email) so nothing is lost, with reminders and a simple customer list.",
+     "price": "INR 20,000 - 60,000"
+    }
+   ],
+   "ideas_note": "For a coaching / school / training academy, new enquiries are what pay the bills, so start with 'Security and trust fix' because it fixes the clearest gap found. Offer the rest as an optional second phase once they see results.",
+   "msg": "Hi Rajiv Gandhi College Of Law team, I'm Tanish, a freelance web developer based in Ahmedabad, India, who works with clients remotely. I noticed your website shows a 'Not secure' warning in browsers. I can help with a admissions website with enquiry form, course pages and whatsapp lead capture. I'd be glad to send a free 1-page audit with quick fixes, no obligation. Shall I send it over?\n\nTanish"
+  },
+  {
+   "id": "2026-11-28-india-amarradiocorporation",
+   "date": "2026-11-28",
+   "auto": true,
+   "region": "india",
+   "name": "Amar Radio Corporation",
+   "niche": "Showroom / jeweller / furniture / boutique",
+   "area": "Bengaluru",
+   "lat": null,
+   "lon": null,
+   "approx_location": false,
+   "score": 6,
+   "budget": "INR 15,000 - 40,000",
+   "site": "https://www.amarradio.com/",
+   "phone": "08046480000",
+   "chips": [
+    "Needs manual review"
+   ],
+   "findings": [
+    "The site builds its content with JavaScript, so contact/booking features could not be checked automatically. Open it and review manually."
+   ],
+   "offer": "Catalog website with WhatsApp ordering and enquiry button",
+   "price": "INR 15,000 - 40,000",
+   "upsell": "Inventory / catalog dashboard INR 25,000+",
+   "pitch": "Lead with: The site builds its content with JavaScript, so contact/booking features could not be checked automatically. Open it and review manually. Then show a quick mock/fix and the catalog website with whatsapp ordering and enquiry button.",
+   "verify": true,
+   "site_source": "osm",
+   "contacts": {
+    "emails": [
+     "jagadish@amarradio.com"
+    ],
+    "whatsapp": "",
+    "phones": [
+     "08046480000"
+    ]
+   },
+   "email_subject": "A quick idea for Amar Radio Corporation's website",
+   "email_body": "Hello Amar Radio Corporation team,\n\nMy name is Tanish. I'm a freelance web developer based in Ahmedabad, India, and I work with businesses remotely.\n\nWhile looking at showroom businesses in Bengaluru, i had a look at your online presence and see a few quick wins.\n\nI can help with a catalog website with WhatsApp ordering and enquiry button. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Business system / CRM",
+     "detail": "Catalog website with WhatsApp ordering and enquiry button. Enquiries, bookings and follow-ups land in one dashboard (and on WhatsApp/email) so nothing is lost, with reminders and a simple customer list.",
+     "price": "INR 20,000 - 60,000"
+    }
+   ],
+   "ideas_note": "For a showroom / jeweller / furniture / boutique, new enquiries are what pay the bills, so start with 'Business system / CRM' because it fixes the clearest gap found. Offer the rest as an optional second phase once they see results.",
+   "msg": "Hi Amar Radio Corporation team, I'm Tanish, a freelance web developer based in Ahmedabad, India, who works with clients remotely. I had a look at your online presence and see a few quick wins. I can help with a catalog website with whatsapp ordering and enquiry button. I'd be glad to send a free 1-page audit with quick fixes, no obligation. Shall I send it over?\n\nTanish"
+  },
+  {
+   "id": "2026-11-28-intl-homearchitectie",
+   "date": "2026-11-28",
+   "auto": true,
+   "region": "intl",
+   "name": "homearchitect.ie",
+   "niche": "Real estate / interior / architect",
+   "area": "Dublin, Ireland",
+   "lat": null,
+   "lon": null,
+   "approx_location": false,
+   "score": 9,
+   "budget": "USD 450 - 1,050",
+   "site": "http://www.homearchitect.ie/",
+   "phone": "+353 1 887 5040",
+   "chips": [
+    "No HTTPS",
+    "Not mobile friendly",
+    "No booking/enquiry",
+    "Weak SEO"
+   ],
+   "findings": [
+    "Site is not served over HTTPS (browser shows 'Not secure').",
+    "No mobile viewport setting found in the page source (likely not optimised for phones).",
+    "No online booking, enquiry or management system found (a custom booking/CRM system can be sold)."
+   ],
+   "offer": "Portfolio / project showcase website with enquiry capture",
+   "price": "USD 450 - 1,050",
+   "upsell": "Lead CRM + WhatsApp follow-up USD 600+",
+   "pitch": "Lead with: Site is not served over HTTPS (browser shows 'Not secure'). Then show a quick mock/fix and the portfolio / project showcase website with enquiry capture.",
+   "verify": false,
+   "site_source": "osm",
+   "contacts": {
+    "emails": [
+     "hello@homearchitect.ie"
+    ],
+    "whatsapp": "",
+    "phones": [
+     "+353 1 887 5040"
+    ]
+   },
+   "email_subject": "A quick idea for homearchitect.ie's website",
+   "email_body": "Hello homearchitect.ie team,\n\nMy name is Tanish. I'm a freelance web developer based in Ahmedabad, India, and I work with businesses remotely.\n\nWhile looking at real estate businesses in Dublin, Ireland, i noticed your website shows a 'Not secure' warning in browsers.\n\nI can help with a portfolio / project showcase website with enquiry capture. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Security and trust fix",
+     "detail": "Install an SSL certificate and force HTTPS so browsers stop showing 'Not secure' on forms. Usually 1-2 days; best bundled with a redesign.",
+     "price": "USD 50 - 150"
+    },
+    {
+     "title": "Mobile-first redesign",
+     "detail": "Most local searches happen on phones. Rebuild layouts for small screens: readable text, big tap targets, faster loading, clear services and contact sections.",
+     "price": "USD 350 - 750"
+    },
+    {
+     "title": "Business system / CRM",
+     "detail": "Portfolio / project showcase website with enquiry capture. Enquiries, bookings and follow-ups land in one dashboard (and on WhatsApp/email) so nothing is lost, with reminders and a simple customer list.",
+     "price": "USD 600 - 1,800"
+    },
+    {
+     "title": "Local SEO basics",
+     "detail": "Page titles and descriptions, Google Business Profile clean-up, and 'near me' service pages so they show up for local searches.",
+     "price": "USD 150 - 350 setup, or USD 100 - 200/month"
+    }
+   ],
+   "ideas_note": "For a real estate / interior / architect, new enquiries are what pay the bills, so start with 'Security and trust fix' because it fixes the clearest gap found. Offer the rest as an optional second phase once they see results.",
+   "msg": "Hi homearchitect.ie team, I'm Tanish, a freelance web developer based in Ahmedabad, India, who works with clients remotely. I noticed your website shows a 'Not secure' warning in browsers. I can help with a portfolio / project showcase website with enquiry capture. I'd be glad to send a free 1-page audit with quick fixes, no obligation. Shall I send it over?\n\nTanish"
+  },
+  {
+   "id": "2026-11-28-intl-kirwanmckeownjamessolici",
+   "date": "2026-11-28",
+   "auto": true,
+   "region": "intl",
+   "name": "Kirwan McKeown James Solicitors",
+   "niche": "CA / law / consulting / insurance firm",
+   "area": "Dublin, Ireland",
+   "lat": null,
+   "lon": null,
+   "approx_location": false,
+   "score": 7,
+   "budget": "USD 350 - 750",
+   "site": "https://www.kmj.ie/",
+   "phone": "+353 1 661 2297",
+   "chips": [
+    "No booking/enquiry",
+    "Outdated"
+   ],
+   "findings": [
+    "No online booking, enquiry or management system found (a custom booking/CRM system can be sold).",
+    "Footer copyright still says 2020 (looks outdated)."
+   ],
+   "offer": "Credible professional website with service pages and enquiry/appointment flow",
+   "price": "USD 350 - 750",
+   "upsell": "Client document portal or reminder automation USD 450+",
+   "pitch": "Lead with: No online booking, enquiry or management system found (a custom booking/CRM system can be sold). Then show a quick mock/fix and the credible professional website with service pages and enquiry/appointment flow.",
+   "verify": false,
+   "site_source": "osm",
+   "contacts": {
+    "emails": [
+     "info@kmj.ie",
+     "alan.kirwan@kmj.ie",
+     "annemarie.james@kmj.ie"
+    ],
+    "whatsapp": "",
+    "phones": [
+     "+353 1 661 2297",
+     "+35316612297",
+     "+35316787071"
+    ]
+   },
+   "email_subject": "A quick idea for Kirwan McKeown James Solicitors's website",
+   "email_body": "Hello Kirwan McKeown James Solicitors team,\n\nMy name is Tanish. I'm a freelance web developer based in Ahmedabad, India, and I work with businesses remotely.\n\nWhile looking at ca businesses in Dublin, Ireland, i noticed your website has no online booking or enquiry system, so enquiries may be getting lost.\n\nI can help with a credible professional website with service pages and enquiry/appointment flow. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Business system / CRM",
+     "detail": "Credible professional website with service pages and enquiry/appointment flow. Enquiries, bookings and follow-ups land in one dashboard (and on WhatsApp/email) so nothing is lost, with reminders and a simple customer list.",
+     "price": "USD 600 - 1,800"
+    },
+    {
+     "title": "Content and design refresh",
+     "detail": "Update photos, services, fees and the footer year; give the site a current look without changing its structure.",
+     "price": "USD 300 - 600"
+    }
+   ],
+   "ideas_note": "For a ca / law / consulting / insurance firm, new enquiries are what pay the bills, so start with 'Business system / CRM' because it fixes the clearest gap found. Offer the rest as an optional second phase once they see results.",
+   "msg": "Hi Kirwan McKeown James Solicitors team, I'm Tanish, a freelance web developer based in Ahmedabad, India, who works with clients remotely. I noticed your website has no online booking or enquiry system, so enquiries may be getting lost. I can help with a credible professional website with service pages and enquiry/appointment flow. I'd be glad to send a free 1-page audit with quick fixes, no obligation. Shall I send it over?\n\nTanish"
+  },
+  {
+   "id": "2026-11-28-intl-baanthai",
+   "date": "2026-11-28",
+   "auto": true,
+   "region": "intl",
+   "name": "Baan Thai",
+   "niche": "Restaurant / cafe chain",
+   "area": "Dublin, Ireland",
+   "lat": null,
+   "lon": null,
+   "approx_location": false,
+   "score": 7,
+   "budget": "USD 350 - 900",
+   "site": "https://www.baanthai.ie/",
+   "phone": "+353 1 660 8833",
+   "chips": [
+    "No booking/enquiry",
+    "Outdated"
+   ],
+   "findings": [
+    "No online booking, enquiry or management system found (a custom booking/CRM system can be sold).",
+    "Footer copyright still says 2024 (looks outdated)."
+   ],
+   "offer": "Menu + online ordering / table booking site with WhatsApp ordering",
+   "price": "USD 350 - 900",
+   "upsell": "Review + loyalty automation USD 300+",
+   "pitch": "Lead with: No online booking, enquiry or management system found (a custom booking/CRM system can be sold). Then show a quick mock/fix and the menu + online ordering / table booking site with whatsapp ordering.",
+   "verify": false,
+   "site_source": "osm",
+   "contacts": {
+    "emails": [
+     "baanthaiballsbridge@gmail.com"
+    ],
+    "whatsapp": "",
+    "phones": [
+     "+353 1 660 8833",
+     "+35316608833",
+     "+35316608355"
+    ]
+   },
+   "email_subject": "A quick idea for Baan Thai's website",
+   "email_body": "Hello Baan Thai team,\n\nMy name is Tanish. I'm a freelance web developer based in Ahmedabad, India, and I work with businesses remotely.\n\nWhile looking at restaurant businesses in Dublin, Ireland, i noticed your website has no online booking or enquiry system, so enquiries may be getting lost.\n\nI can help with a menu + online ordering / table booking site with WhatsApp ordering. If it is useful, I will send a free one-page review with three quick fixes, with no obligation.\n\nBest regards,\nTanish\nFreelance web developer, Ahmedabad, India\n\nIf this is not relevant, just reply 'no thanks' and I will not contact you again.",
+   "ideas": [
+    {
+     "title": "Business system / CRM",
+     "detail": "Menu + online ordering / table booking site with WhatsApp ordering. Enquiries, bookings and follow-ups land in one dashboard (and on WhatsApp/email) so nothing is lost, with reminders and a simple customer list.",
+     "price": "USD 600 - 1,800"
+    },
+    {
+     "title": "Content and design refresh",
+     "detail": "Update photos, services, fees and the footer year; give the site a current look without changing its structure.",
+     "price": "USD 300 - 600"
+    }
+   ],
+   "ideas_note": "For a restaurant / cafe chain, new enquiries are what pay the bills, so start with 'Business system / CRM' because it fixes the clearest gap found. Offer the rest as an optional second phase once they see results.",
+   "msg": "Hi Baan Thai team, I'm Tanish, a freelance web developer based in Ahmedabad, India, who works with clients remotely. I noticed your website has no online booking or enquiry system, so enquiries may be getting lost. I can help with a menu + online ordering / table booking site with whatsapp ordering. I'd be glad to send a free 1-page audit with quick fixes, no obligation. Shall I send it over?\n\nTanish"
+  },
   {
    "id": "2026-11-27-local-indianinstituteofmanagem",
    "date": "2026-11-27",
